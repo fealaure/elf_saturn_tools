@@ -1,0 +1,26 @@
+2009-10-28 ver 0.4 kingshriek
+
+    * arcunpack.py
+        -added transparent decompression of .A6, .S4, .BIN files
+
+    * arcrepack.py
+        -added transparent compression of .A6, .S4, .BIN files
+
+2009-10-05 ver 0.3 kingshriek
+
+    * arcunpack.py
+        -fixed a bug in yunolzss.dll that prevented from writing out data if
+         a dictionary lookup was at the end of the compressed data
+
+2009-10-05 ver 0.2 kingshriek
+
+    * arcunpack.py
+        -changed to use an external dll (yunolzss.dll) for fast decompression
+
+2009-10-03 ver 0.1 kingshriek 
+
+    * arcunpack.py
+        -initial release
+
+    * arcrepack.py
+        -initial release
