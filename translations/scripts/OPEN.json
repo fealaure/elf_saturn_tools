@@ -1,0 +1,3008 @@
+[
+ {
+  "idx": 0,
+  "jp": "アーン‥‥アーン‥‥‥‥。",
+  "win_jp": "アーン‥‥アーン‥‥‥‥。",
+  "en": "Waah... waah..."
+ },
+ {
+  "idx": 1,
+  "jp": "アーン‥‥アーン‥‥アーン‥‥‥‥。",
+  "win_jp": "アーン‥‥アーン‥‥アーン‥‥‥‥。",
+  "en": "Waah... waah... waah..."
+ },
+ {
+  "idx": 2,
+  "jp": "ワーーーーン‥‥！！！！",
+  "win_jp": "ワーーーーン‥‥！！！！",
+  "en": "Waaaaah...!!!"
+ },
+ {
+  "idx": 3,
+  "jp": "<wait>"
+ },
+ {
+  "idx": 4,
+  "jp": "【女性の声】《よしよし‥‥大丈夫よ、坊や‥‥。》<wait>",
+  "win_jp": "【女性の声】《よしよし‥‥大丈夫よ、坊や‥‥。》",
+  "en": "【Female voice】 《There, there... it's okay my dear.》"
+ },
+ {
+  "idx": 5,
+  "jp": "【女性の声】《恐いことなんて、何もないの‥‥ね。》<wait>",
+  "win_jp": "【女性の声】《恐いことなんて、何もないの‥‥ね。》",
+  "en": "【Female voice】 《There's nothing to be afraid of,\nokay?》"
+ },
+ {
+  "idx": 6,
+  "jp": "グス‥‥グス‥‥‥‥。<wait>",
+  "win_jp": "グス‥‥グス‥‥‥‥。",
+  "en": "*sniffle*... *sniffle*..."
+ },
+ {
+  "idx": 7,
+  "jp": "【女性の声】《ほーら、恐くない恐くない‥‥。》<wait>",
+  "win_jp": "【女性の声】《ほーら、恐くない恐くない‥‥。》",
+  "en": "【Female voice】 《See now? It's not scary anymore.》"
+ },
+ {
+  "idx": 8,
+  "jp": "【男の声】泣き虫なヤツだな、男のくせに。<wait>",
+  "win_jp": "【男の声】泣き虫なヤツだな、男のくせに。",
+  "en": "【Man's voice】 What a crybaby. He needs to man the\nhell up."
+ },
+ {
+  "idx": 9,
+  "jp": "ワーーーーーン！！！<wait>",
+  "win_jp": "ワーーーーーン！！！",
+  "en": "Waaaaah!!!"
+ },
+ {
+  "idx": 10,
+  "jp": "【女性の声】《んもう、あなたは向こうへ行っていて下さい。子供が恐がります。》<wait>",
+  "win_jp": "【女性の声】《んもう、あなたは向こうへ行っていて下さい。子供が恐がります。》",
+  "en": "【Female voice】 《Leave us alone, honey. This little\nboy is deathly afraid of you.》"
+ },
+ {
+  "idx": 11,
+  "jp": "【男の声】大丈夫か？　目が不自由なのだからな、気を付けるんだ。<wait>",
+  "win_jp": "【男の声】大丈夫か？　目が不自由なのだからな、気を付けるんだ。",
+  "en": "【Man's voice】 Can you handle it? You're blind after\nall. Be careful."
+ },
+ {
+  "idx": 12,
+  "jp": "【女性の声】《子供を心配して下さってるんですね。》<wait>",
+  "win_jp": "【女性の声】《子供を心配して下さってるんですね。》",
+  "en": "【Female voice】 《You're concerned for our child,\naren't you?》"
+ },
+ {
+  "idx": 13,
+  "jp": "【男の声】こんな軟弱な子供など、どうだってよい。お前の方が気がかりぢゃ。<wait>",
+  "win_jp": "【男の声】こんな軟弱な子供など、どうだってよい。お前の方が気がかりぢゃ。",
+  "en": "【Man's voice】 I don't give a damn about this weakling.\nI'm more concerned for your safety."
+ },
+ {
+  "idx": 14,
+  "jp": "【女性の声】《また、そんなことを‥‥。》<wait>",
+  "win_jp": "【女性の声】《また、そんなことを‥‥。》",
+  "en": "【Female voice】 《There you go again...》"
+ },
+ {
+  "idx": 15,
+  "jp": "【男の声】フン、そんな軟弱なヤツはな、こうしてくれる。<wait>",
+  "win_jp": "【男の声】フン、そんな軟弱なヤツはな、こうしてくれる。",
+  "en": "【Man's voice】 Hmph. This is how we handle scaredy-\ncats like this one."
+ },
+ {
+  "idx": 16,
+  "jp": "むぎゅっ。<wait>",
+  "win_jp": "むぎゅっ。",
+  "en": "*squeeze*"
+ },
+ {
+  "idx": 17,
+  "jp": "ンアーーーーーン！！！<wait>",
+  "win_jp": "ンアーーーーーン！！！",
+  "en": "Waaaaah!!!"
+ },
+ {
+  "idx": 18,
+  "jp": "【女性の声】《ほっぺを、つねらないで下さい。可哀相です。》<wait>",
+  "win_jp": "【女性の声】《ほっぺを、つねらないで下さい。可哀相です。》",
+  "en": "【Female voice】 《Don't pinch his cheek! The poor\nthing.》"
+ },
+ {
+  "idx": 19,
+  "jp": "【男の声】男がつねられたくらいで、大声をあげるな。<wait>",
+  "win_jp": "【男の声】男がつねられたくらいで、大声をあげるな。",
+  "en": "【Man's voice】 A real man wouldn't raise his voice\nover a measly pinch."
+ },
+ {
+  "idx": 20,
+  "jp": "【女性の声】《無理を言わないで。まだ年端もいかない子供ですわ‥‥。》<wait>",
+  "win_jp": "【女性の声】《無理を言わないで。まだ年端もいかない子供ですわ‥‥。》",
+  "en": "【Female voice】 《Don't be so unreasonable. He's just\na child...》"
+ },
+ {
+  "idx": 21,
+  "jp": "【男の声】ワシの息子である限り、泣きごとは許さんぞ。<wait>",
+  "win_jp": "【男の声】ワシの息子である限り、泣きごとは許さんぞ。",
+  "en": "【Man's voice】 He's my child. Therefore, I won't\nforgive weeping."
+ },
+ {
+  "idx": 22,
+  "jp": "【女性の声】《また、そんなことを言って‥‥。》<wait>",
+  "win_jp": "【女性の声】《また、そんなことを言って‥‥。》",
+  "en": "【Female voice】 《There you go again...》"
+ },
+ {
+  "idx": 23,
+  "jp": "【男の声】男のロマンとはな‥‥。<wait>",
+  "win_jp": "【男の声】男のロマンとはな‥‥。",
+  "en": "【Man's voice】 It is a man's dream to―"
+ },
+ {
+  "idx": 24,
+  "jp": "【女性の声】《ダメです。》<wait>",
+  "win_jp": "【女性の声】《ダメです。》",
+  "en": "【Female voice】 《Don't.》"
+ },
+ {
+  "idx": 25,
+  "jp": "【男の声】むぅ。<wait>",
+  "win_jp": "【男の声】むぅ。",
+  "en": "【Man's voice】 *grumble*"
+ },
+ {
+  "idx": 26,
+  "jp": "【女性の声】《健康に育ってくれさえすれば、私は言うことなどありません。》<wait>",
+  "win_jp": "【女性の声】《健康に育ってくれさえすれば、私は言うことなどありません。》",
+  "en": "【Female voice】 《I'll be happy so long as he simply\ngrows up healthy.》"
+ },
+ {
+  "idx": 27,
+  "jp": "【男の声】加えて、たくましさだな。<wait>",
+  "win_jp": "【男の声】加えて、たくましさだな。",
+  "en": "【Man's voice】 And toughens up."
+ },
+ {
+  "idx": 28,
+  "jp": "【女性の声】《たくまし過ぎるのは、あなただけで十分ですよ‥‥。》<wait>",
+  "win_jp": "【女性の声】《たくまし過ぎるのは、あなただけで十分ですよ‥‥。》",
+  "en": "【Female voice】 《Having one man who's too tough for\nhis own good is enough for this household.》"
+ },
+ {
+  "idx": 29,
+  "jp": "【男の声】男というモノは、だな‥‥。<wait>",
+  "win_jp": "【男の声】男というモノは、だな‥‥。",
+  "en": "【Man's voice】 Let me tell you what a real man is\nsupposed to be like―"
+ },
+ {
+  "idx": 30,
+  "jp": "アーーン‥‥アーーン‥‥‥‥。<wait>",
+  "win_jp": "アーーン‥‥アーーン‥‥‥‥。",
+  "en": "Waah... waah..."
+ },
+ {
+  "idx": 31,
+  "jp": "【女性の声】《あらあら‥‥よしよし。》<wait>",
+  "win_jp": "【女性の声】《あらあら‥‥よしよし。》",
+  "en": "【Female voice】 《Oh my... there, there.》"
+ },
+ {
+  "idx": 32,
+  "jp": "【男の声】泣くなっ！<wait>",
+  "win_jp": "【男の声】泣くなっ！",
+  "en": "【Man's voice】 Don't cry!"
+ },
+ {
+  "idx": 33,
+  "jp": "ワーーーーン‥‥！！！<wait>",
+  "win_jp": "ワーーーーン‥‥！！！",
+  "en": "Waaaaah...!!!"
+ },
+ {
+  "idx": 34,
+  "jp": "【女性の声】《逆効果ですよ‥‥その恐い顔を見たら。》<wait>",
+  "win_jp": "【女性の声】《逆効果ですよ‥‥その恐い顔を見たら。》",
+  "en": "【Female voice】 《Your scary face is only going to\nmake things worse.》"
+ },
+ {
+  "idx": 35,
+  "jp": "【男の声】少し傷ついたぞ。<wait>",
+  "win_jp": "【男の声】少し傷ついたぞ。",
+  "en": "【Man's voice】 That hurts."
+ },
+ {
+  "idx": 36,
+  "jp": "【女性の声】《私は、とっても好きですわ。》<wait>",
+  "win_jp": "【女性の声】《私は、とっても好きですわ。》",
+  "en": "【Female voice】 《Though, I really do like your face.》"
+ },
+ {
+  "idx": 37,
+  "jp": "【男の声】‥‥‥‥。<wait>",
+  "win_jp": "【男の声】‥‥‥‥。",
+  "en": "【Man's voice】 ........"
+ },
+ {
+  "idx": 38,
+  "jp": "【女性の声】《フフ、赤くなってますわよ。》<wait>",
+  "win_jp": "【女性の声】《フフ、赤くなってますわよ。》",
+  "en": "【Female voice】 《*giggle* You're blushing.》"
+ },
+ {
+  "idx": 39,
+  "jp": "【男の声】フン、だいたいにおいてだな、男のくせに、母親のそばにベッタリとくっついてるのが気にくわん。<wait>",
+  "win_jp": "【男の声】フン、だいたいにおいてだな、男のくせに、母親のそばにベッタリとくっついてるのが気にくわん。",
+  "en": "【Man's voice】 Hmph. I'm just not cool with him\nclinging onto his mother like that. What a pitiful\nexcuse for a man."
+ },
+ {
+  "idx": 40,
+  "jp": "【女性の声】《また見境のない嫉妬をして‥‥。》<wait>",
+  "win_jp": "【女性の声】《また見境のない嫉妬をして‥‥。》",
+  "en": "【Female voice】 《There you go, acting all envious\nagain...》"
+ },
+ {
+  "idx": 41,
+  "jp": "【男の声】この胸はな、わしだけのモノだからなっ。<wait>",
+  "win_jp": "【男の声】この胸はな、わしだけのモノだからなっ。",
+  "en": "【Man's voice】 These breasts belong solely to me."
+ },
+ {
+  "idx": 42,
+  "jp": "【女性の声】《はいはい‥‥あなたは向こうへ行っていて下さい。赤ちゃんがまた泣いてしまいます。》<wait>",
+  "win_jp": "【女性の声】《はいはい‥‥あなたは向こうへ行っていて下さい。赤ちゃんがまた泣いてしまいます。》",
+  "en": "【Female voice】 《Yes, yes... just leave us alone, would\nyou? Or the baby will start wailing once more.》"
+ },
+ {
+  "idx": 43,
+  "jp": "【男の声】むぅ‥‥強い男になれ。いいなっ。<wait>",
+  "win_jp": "【男の声】むぅ‥‥強い男になれ。いいなっ。",
+  "en": "【Man's voice】 *grumble*... Become a strong man, you\nhear me."
+ },
+ {
+  "idx": 44,
+  "jp": "【女性の声】《はいはい‥‥ほらほら。》<wait>",
+  "win_jp": "【女性の声】《はいはい‥‥ほらほら。》",
+  "en": "【Female voice】 《Yes, yes... off you go now.》"
+ },
+ {
+  "idx": 45,
+  "jp": "【男の声】むぅ‥‥‥‥。<wait>",
+  "win_jp": "【男の声】むぅ‥‥‥‥。",
+  "en": "【Man's voice】 *grumble*..."
+ },
+ {
+  "idx": 46,
+  "jp": "【女性の声】《‥‥‥‥。》<wait>",
+  "win_jp": "【女性の声】《‥‥‥‥。》",
+  "en": "【Female voice】 《........》"
+ },
+ {
+  "idx": 47,
+  "jp": "【女性の声】《さぁ、もう大丈夫よ‥‥。》<wait>",
+  "win_jp": "【女性の声】《さぁ、もう大丈夫よ‥‥。》",
+  "en": "【Female voice】 《It's alright now...》"
+ },
+ {
+  "idx": 48,
+  "jp": "【女性の声】《恐いオジチャンは、どこかへ行っちゃいました。》<wait>",
+  "win_jp": "【女性の声】《恐いオジチャンは、どこかへ行っちゃいました。》",
+  "en": "【Female voice】 《That scary old man is gone.》"
+ },
+ {
+  "idx": 49,
+  "jp": "【女性の声】《安心なさい。ゆっくりと休むの‥‥。》<wait>",
+  "win_jp": "【女性の声】《安心なさい。ゆっくりと休むの‥‥。》",
+  "en": "【Female voice】 《Don't worry. Sleep tightly now.》"
+ },
+ {
+  "idx": 50,
+  "jp": "スヤスヤ‥‥スヤスヤ‥‥‥‥。<wait>",
+  "win_jp": "スヤスヤ‥‥スヤスヤ‥‥‥‥。",
+  "en": "Zzz... zzz..."
+ },
+ {
+  "idx": 51,
+  "jp": "【女性の声】《フフ‥‥可愛いわ、本当に。》<wait>",
+  "win_jp": "【女性の声】《フフ‥‥可愛いわ、本当に。》",
+  "en": "【Female voice】 《*giggle*... You're so cute.》"
+ },
+ {
+  "idx": 52,
+  "jp": "【女性の声】《ぐっすりと‥‥そう‥‥そうよ。》<wait>",
+  "win_jp": "【女性の声】《ぐっすりと‥‥そう‥‥そうよ。》",
+  "en": "【Female voice】 《Sleep tight... that's the way...》"
+ },
+ {
+  "idx": 53,
+  "jp": "【女性の声】《いい子ね‥‥。》<wait>",
+  "win_jp": "【女性の声】《いい子ね‥‥。》",
+  "en": "【Female voice】 《Good boy...》"
+ },
+ {
+  "idx": 54,
+  "jp": "【女性の声】《‥‥私の子よ‥‥‥‥。》<wait>",
+  "win_jp": "【女性の声】《‥‥私の子よ‥‥‥‥。》",
+  "en": "【Female voice】 《...My dearest son...》"
+ },
+ {
+  "idx": 55,
+  "jp": "【女性の声】《私の‥‥‥‥。》<pause>",
+  "win_jp": "【女性の声】《私の‥‥‥‥。》",
+  "en": "【Female voice】 《My...》"
+ },
+ {
+  "idx": 56,
+  "jp": "【たくや】‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥。",
+  "en": "【Takuya】 ..."
+ },
+ {
+  "idx": 57,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 58,
+  "jp": "【たくや】‥‥‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥‥‥。",
+  "en": "【Takuya】 ............"
+ },
+ {
+  "idx": 59,
+  "jp": "【たくや】ふぁあ‥‥。<wait>",
+  "win_jp": "【{NAME}】ふぁあ‥‥。",
+  "en": "【Takuya】 Whew!"
+ },
+ {
+  "idx": 60,
+  "jp": "【たくや】‥‥良く寝たぜ。<wait>",
+  "win_jp": "【{NAME}】‥‥良く寝たぜ。",
+  "en": "【Takuya】 ...I slept like a log."
+ },
+ {
+  "idx": 61,
+  "jp": "【たくや】青い空、白い雲‥‥。<wait>",
+  "win_jp": "【{NAME}】青い空、白い雲‥‥。",
+  "en": "【Takuya】 A blue sky. White clouds."
+ },
+ {
+  "idx": 62,
+  "jp": "【たくや】暑すぎず、寒すぎず‥‥まことに昼寝日よりで結構なことだ‥‥。<wait>",
+  "win_jp": "【{NAME}】暑すぎず、寒すぎず‥‥まことに昼寝日よりで結構なことだ‥‥。",
+  "en": "【Takuya】 Not too hot, not too chilly... it's the perfect\nday for a siesta."
+ },
+ {
+  "idx": 63,
+  "jp": "【たくや】学校の屋上ってーのは、どうしてこうも気持ちがいいのかな。<wait>",
+  "win_jp": "【{NAME}】学校の屋上ってーのは、どうしてこうも気持ちがいいのかな。",
+  "en": "【Takuya】 I wonder why it always feels so damn good\nup here on the school roof."
+ },
+ {
+  "idx": 64,
+  "jp": "【たくや】コンクリートの床に寝そべり、ボーっと空を見上げる‥‥。<wait>",
+  "win_jp": "【{NAME}】コンクリートの床に寝そべり、ボーっと空を見上げる‥‥。",
+  "en": "【Takuya】 Sprawled out on the concrete floor, blankly\nstaring up at the sky..."
+ },
+ {
+  "idx": 65,
+  "jp": "【たくや】くはぁ、無上の喜びって感じだな。<wait>",
+  "win_jp": "【{NAME}】くはぁ、無上の喜びって感じだな。",
+  "en": "【Takuya】 Hot damn. This is true bliss."
+ },
+ {
+  "idx": 66,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 67,
+  "jp": "【たくや】‥‥‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥‥‥。",
+  "en": "【Takuya】 ............"
+ },
+ {
+  "idx": 68,
+  "jp": "【たくや】しかし、何であんな夢を見ちまうんだろう。<wait>",
+  "win_jp": "【{NAME}】しかし、何であんな夢を見ちまうんだろう。",
+  "en": "【Takuya】 Although, I sure wonder why I had a dream\nlike that."
+ },
+ {
+  "idx": 69,
+  "jp": "【たくや】しかも、あのバカ親父まで登場しやがった。相変わらず強烈だぜ‥‥。<wait>",
+  "win_jp": "【{NAME}】しかも、あのバカ親父まで登場しやがった。相変わらず強烈だぜ‥‥。",
+  "en": "【Takuya】 Even my dumbass father made an\nappearance. In all his volcanic glory."
+ },
+ {
+  "idx": 70,
+  "jp": "【たくや】それに‥‥。<wait>",
+  "win_jp": "【{NAME}】それに‥‥。",
+  "en": "【Takuya】 Besides him..."
+ },
+ {
+  "idx": 71,
+  "jp": "【たくや】母親、か。<wait>",
+  "win_jp": "【{NAME}】母親、か。",
+  "en": "【Takuya】 My mother."
+ },
+ {
+  "idx": 72,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 73,
+  "jp": "【たくや】母さん‥‥？<wait>",
+  "win_jp": "【{NAME}】母さん‥‥？",
+  "en": "【Takuya】 My mother...?"
+ },
+ {
+  "idx": 74,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 75,
+  "jp": "【たくや】ははは‥‥母親の顔なんて、覚えてやしないのにな。<wait>",
+  "win_jp": "【{NAME}】ははは‥‥母親の顔なんて、覚えてやしないのにな。",
+  "en": "【Takuya】 Hahaha... I don't even remember my\nmother's face."
+ },
+ {
+  "idx": 76,
+  "jp": "【たくや】そうさ。写真の１枚も残されちゃいないんだ‥‥。<wait>",
+  "win_jp": "【{NAME}】そうさ。写真の１枚も残されちゃいないんだ‥‥。",
+  "en": "【Takuya】 That's right. Not even a single photograph\nremains."
+ },
+ {
+  "idx": 77,
+  "jp": "【たくや】オヤジの野郎が、過去との決別とかいって、すべて焼いてしまったんだった‥‥。<wait>",
+  "win_jp": "【{NAME}】オヤジの野郎が、過去との決別とかいって、すべて焼いてしまったんだった‥‥。",
+  "en": "【Takuya】 My old man incinerated every scrap of\ninformation. He said he wanted to put the past behind\nhim."
+ },
+ {
+  "idx": 78,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 79,
+  "jp": "【たくや】夢にまで見ちまうとは、よっぽど溜まってたのかな？<wait>",
+  "win_jp": "【{NAME}】夢にまで見ちまうとは、よっぽど溜まってたのかな？",
+  "en": "【Takuya】 Maybe I'm more hung up on this than I\nthought. He's even pervading my dreams now."
+ },
+ {
+  "idx": 80,
+  "jp": "【たくや】最近、とくに多いしなぁ‥‥。<wait>",
+  "win_jp": "【{NAME}】最近、とくに多いしなぁ‥‥。",
+  "en": "【Takuya】 These past couple of days, they've been\nespecially bountiful."
+ },
+ {
+  "idx": 81,
+  "jp": "【たくや】多いってのは、夢を見る回数のことだぞ。アレの回数とか量じゃない。<wait>",
+  "win_jp": "【{NAME}】多いってのは、夢を見る回数のことだぞ。アレの回数とか量じゃない。",
+  "en": "【Takuya】 And by \"bountiful,\" I mean the number of\ndreams I've had, not the frequency I've done you-\nknow-what, nor the volume I produced."
+ },
+ {
+  "idx": 82,
+  "jp": "【たくや】‥‥って誰に言ってるんだろうな、俺は。<wait>",
+  "win_jp": "【{NAME}】‥‥って誰に言ってるんだろうな、俺は。",
+  "en": "【Takuya】 ...Who am I explaining myself to anyway?"
+ },
+ {
+  "idx": 83,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 84,
+  "jp": "【たくや】夢ってのは、抑圧された欲望の具現化だ‥‥。<wait>",
+  "win_jp": "【{NAME}】夢ってのは、抑圧された欲望の具現化だ‥‥。",
+  "en": "【Takuya】 Dreams are the embodiment of repressed\ndesires."
+ },
+ {
+  "idx": 85,
+  "jp": "【たくや】なんて難しい言葉を、どっかの偉い先生が言ったそうだ。<wait>",
+  "win_jp": "【{NAME}】なんて難しい言葉を、どっかの偉い先生が言ったそうだ。",
+  "en": "【Takuya】 Those words were said by some big shot\ndoctor somewhere."
+ },
+ {
+  "idx": 86,
+  "jp": "【たくや】「抑圧された欲望」か‥‥親に対する後ろめたさ、かな？<wait>",
+  "win_jp": "【{NAME}】「抑圧された欲望」か‥‥親に対する後ろめたさ、かな？",
+  "en": "【Takuya】 \"Repressed desires,\" huh... or maybe it's a\nfeeling of regret with respect to my parent's\nexpectations?"
+ },
+ {
+  "idx": 87,
+  "jp": "【たくや】なにせ、授業はサボる、遅刻の常習、成績は良くない‥‥うむ、なかなか常人に出来るこっちゃないぜ。<wait>",
+  "win_jp": "【{NAME}】なにせ、授業はサボる、遅刻の常習、成績は良くない‥‥うむ、なかなか常人に出来るこっちゃないぜ。",
+  "en": "【Takuya】 I skip classes, am usually tardy, have shitty\ngrades... yeah, I'm not your average deviant."
+ },
+ {
+  "idx": 88,
+  "jp": "【たくや】非凡って意味じゃ、むしろ褒められてしかるべきだぞ、わっはっは。<wait>",
+  "win_jp": "【{NAME}】非凡って意味じゃ、むしろ褒められてしかるべきだぞ、わっはっは。",
+  "en": "【Takuya】 If anything, I should be hailed as a prodigy.\nWhahaha."
+ },
+ {
+  "idx": 89,
+  "jp": "【たくや】なんて言ってるのもバカらしいから止めよう。<wait>",
+  "win_jp": "【{NAME}】なんて言ってるのもバカらしいから止めよう。",
+  "en": "【Takuya】 But this is getting dumber by the minute.\nEnough about that."
+ },
+ {
+  "idx": 90,
+  "jp": "【たくや】せっかく、身軽になったんだしな‥‥抑圧よりはむしろ、開放と考えなくちゃ。<wait>",
+  "win_jp": "【{NAME}】せっかく、身軽になったんだしな‥‥抑圧よりはむしろ、開放と考えなくちゃ。",
+  "en": "【Takuya】 I've finally embraced apathy, after all. If\nanything, I should consider myself liberated."
+ },
+ {
+  "idx": 91,
+  "jp": "【たくや】ははは‥‥そうさ、開放なんだ。<wait>",
+  "win_jp": "【{NAME}】ははは‥‥そうさ、開放なんだ。",
+  "en": "【Takuya】 Hahaha... that's right, I've been liberated."
+ },
+ {
+  "idx": 92,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 93,
+  "jp": "【たくや】ふぅ‥‥。<wait>",
+  "win_jp": "【{NAME}】ふぅ‥‥。",
+  "en": "【Takuya】 *sigh*..."
+ },
+ {
+  "idx": 94,
+  "jp": "【たくや】青い空、白い雲‥‥。<wait>",
+  "win_jp": "【{NAME}】青い空、白い雲‥‥。",
+  "en": "【Takuya】 A blue sky, white clouds..."
+ },
+ {
+  "idx": 95,
+  "jp": "【たくや】まことに昼寝日よりで結構なことだ‥‥。<wait>",
+  "win_jp": "【{NAME}】まことに昼寝日よりで結構なことだ‥‥。",
+  "en": "【Takuya】 Truly the perfect day for a siesta."
+ },
+ {
+  "idx": 96,
+  "jp": "【たくや】これだけ天気がいいと、ついウトウトしてしまう。<wait>",
+  "win_jp": "【{NAME}】これだけ天気がいいと、ついウトウトしてしまう。",
+  "en": "【Takuya】 I have a tendency to doze off when the\nweather's this nice."
+ },
+ {
+  "idx": 97,
+  "jp": "【たくや】ウトウトすると、眠ってしまう‥‥これすべて自然の摂理。<wait>",
+  "win_jp": "【{NAME}】ウトウトすると、眠ってしまう‥‥これすべて自然の摂理。",
+  "en": "【Takuya】 And when I start dozing off, I end up falling\ninto a deep sleep... it is but natural providence."
+ },
+ {
+  "idx": 98,
+  "jp": "【たくや】夏休み前の最後の授業も終わったようだしな。<wait>",
+  "win_jp": "【{NAME}】夏休み前の最後の授業も終わったようだしな。",
+  "en": "【Takuya】 It looks like the last class before summer\nbreak has been dismissed."
+ },
+ {
+  "idx": 99,
+  "jp": "【たくや】自然の摂理にしたがって、そろそろ帰るかい？<wait>",
+  "win_jp": "【{NAME}】自然の摂理にしたがって、そろそろ帰るかい？",
+  "en": "【Takuya】 I should abide by the natural law, and make\nmy way home sooner than later."
+ },
+ {
+  "idx": 100,
+  "jp": "【女性の声】煩悩の摂理だろう。<wait>",
+  "win_jp": "【女性の声】煩悩の摂理だろう。",
+  "en": "【Female voice】 Don't you mean abide by your\nunsightly material desires?"
+ },
+ {
+  "idx": 101,
+  "jp": "【たくや】えっ‥‥？<wait>",
+  "win_jp": "【{NAME}】えっ‥‥？",
+  "en": "【Takuya】 Huh...?"
+ },
+ {
+  "idx": 102,
+  "jp": "【たくや】あっ、白いパンツ。<wait>",
+  "win_jp": "【{NAME}】あっ、白いパンツ。",
+  "en": "【Takuya】 Ah, white panties."
+ },
+ {
+  "idx": 103,
+  "jp": "【目の前の女性】君な、また授業をサボって。<wait>",
+  "win_jp": "【目の前の女性】君な、また授業をサボって。",
+  "en": "【Woman before me】 So you've skipped classes once\nagain."
+ },
+ {
+  "idx": 104,
+  "jp": "【たくや】や、校医の絵里子（えりこ）先生じゃないか。相変わらず素敵なパンツだな。<wait>",
+  "win_jp": "【{NAME}】や、校医の絵里子（えりこ）先生じゃないか。相変わらず素敵なパンツだな。",
+  "en": "【Takuya】 Why if it isn't our school doctor, Eriko-\nsensei. Your panties are as lovely as ever."
+ },
+ {
+  "idx": 105,
+  "jp": "【絵里子】パンツなんか、どうだっていい。<wait>",
+  "win_jp": "【絵里子】パンツなんか、どうだっていい。",
+  "en": "【Eriko】 Who cares about panties."
+ },
+ {
+  "idx": 106,
+  "jp": "【たくや】えっ、絵里子先生、パンツをはかない派？<wait>",
+  "win_jp": "【{NAME}】えっ、絵里子先生、パンツをはかない派？",
+  "en": "【Takuya】 Oh? Do you usually go commando?"
+ },
+ {
+  "idx": 107,
+  "jp": "【絵里子】なぜそうなる。<wait>",
+  "win_jp": "【絵里子】なぜそうなる。",
+  "en": "【Eriko】 How did you come to that conclusion?"
+ },
+ {
+  "idx": 108,
+  "jp": "【たくや】だって、どうだっていいって、いま。<wait>",
+  "win_jp": "【{NAME}】だって、どうだっていいって、いま。",
+  "en": "【Takuya】 Well you just said you didn't care for\nundergarments."
+ },
+ {
+  "idx": 109,
+  "jp": "【絵里子】はく、はかないの問題じゃない。<wait>",
+  "win_jp": "【絵里子】はく、はかないの問題じゃない。",
+  "en": "【Eriko】 Wearing them or not is a different matter\nentirely."
+ },
+ {
+  "idx": 110,
+  "jp": "【たくや】じゃあ、かぶったり。<wait>",
+  "win_jp": "【{NAME}】じゃあ、かぶったり。",
+  "en": "【Takuya】 Then do you wear them like a hat?"
+ },
+ {
+  "idx": 111,
+  "jp": "【絵里子】かぶらない。<wait>",
+  "win_jp": "【絵里子】かぶらない。",
+  "en": "【Eriko】 I don't wear hats."
+ },
+ {
+  "idx": 112,
+  "jp": "【たくや】まさか、匂いを嗅いだりして。<wait>",
+  "win_jp": "【{NAME}】まさか、匂いを嗅いだりして。",
+  "en": "【Takuya】 Don't tell me you sniff them?"
+ },
+ {
+  "idx": 113,
+  "jp": "【絵里子】パンツの匂いを嗅いで、楽しいのか？<wait>",
+  "win_jp": "【絵里子】パンツの匂いを嗅いで、楽しいのか？",
+  "en": "【Eriko】 Is sniffing panties really that entertaining?"
+ },
+ {
+  "idx": 114,
+  "jp": "【たくや】絵里子先生のパンツだったら、楽しいな。<wait>",
+  "win_jp": "【{NAME}】絵里子先生のパンツだったら、楽しいな。",
+  "en": "【Takuya】 It is if they're yours."
+ },
+ {
+  "idx": 115,
+  "jp": "【絵里子】嗅がない。<wait>",
+  "win_jp": "【絵里子】嗅がない。",
+  "en": "【Eriko】 I don't."
+ },
+ {
+  "idx": 116,
+  "jp": "【たくや】そっか‥‥じゃあ‥‥。<wait>",
+  "win_jp": "【{NAME}】そっか‥‥じゃあ‥‥。",
+  "en": "【Takuya】 I see... then..."
+ },
+ {
+  "idx": 117,
+  "jp": "【絵里子】誰がパンツの話をしているのか。<wait>",
+  "win_jp": "【絵里子】誰がパンツの話をしているのか。",
+  "en": "【Eriko】 Who's talking about panties in the first place?"
+ },
+ {
+  "idx": 118,
+  "jp": "【たくや】違うのか。<wait>",
+  "win_jp": "【{NAME}】違うのか。",
+  "en": "【Takuya】 You weren't?"
+ },
+ {
+  "idx": 119,
+  "jp": "【絵里子】違う。<wait>",
+  "win_jp": "【絵里子】違う。",
+  "en": "【Eriko】 No."
+ },
+ {
+  "idx": 120,
+  "jp": "【たくや】なぁんだ、つまらん。<wait>",
+  "win_jp": "【{NAME}】なぁんだ、つまらん。",
+  "en": "【Takuya】 Oh. That's no fun."
+ },
+ {
+  "idx": 121,
+  "jp": "【絵里子】あのなぁ、とりあえず起きあがって話す、という展開は期待できないのか、君には。<wait>",
+  "win_jp": "【絵里子】あのなぁ、とりあえず起きあがって話す、という展開は期待できないのか、君には。",
+  "en": "【Eriko】 Is it really so unrealistic to expect you to get\nup and talk like any normal person would?"
+ },
+ {
+  "idx": 122,
+  "jp": "【たくや】だって見てみなよ、この澄み切った青空を‥‥。<wait>",
+  "win_jp": "【{NAME}】だって見てみなよ、この澄み切った青空を‥‥。",
+  "en": "【Takuya】 But just look at this impeccably blue sky..."
+ },
+ {
+  "idx": 123,
+  "jp": "【絵里子】スカートの中を凝視しながら言っても、説得力がないぞ。<wait>",
+  "win_jp": "【絵里子】スカートの中を凝視しながら言っても、説得力がないぞ。",
+  "en": "【Eriko】 Your case isn't all that convincing when\nyou're still staring up my skirt."
+ },
+ {
+  "idx": 124,
+  "jp": "【たくや】うむ、「絶景」という言葉は、今この時のためにあると言えよう。<wait>",
+  "win_jp": "【{NAME}】うむ、「絶景」という言葉は、今この時のためにあると言えよう。",
+  "en": "【Takuya】 I figure the expression \"picture-perfect\"\nwas invented for moments like these."
+ },
+ {
+  "idx": 125,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 126,
+  "jp": "【たくや】呆れてる？<wait>",
+  "win_jp": "【{NAME}】呆れてる？",
+  "en": "【Takuya】 Are you sick of me yet?"
+ },
+ {
+  "idx": 127,
+  "jp": "【絵里子】しょうがない生徒だと思ってる。<wait>",
+  "win_jp": "【絵里子】しょうがない学生だと思ってる。",
+  "en": "【Eriko】 I've already lost all hope for you."
+ },
+ {
+  "idx": 128,
+  "jp": "【たくや】しょうがないと言いながらも、隠そうとしないところに大人の余裕を感じるなぁ、ボク。<wait>",
+  "win_jp": "【{NAME}】しょうがないと言いながらも、隠そうとしないところに大人の余裕を感じるなぁ、ボク。",
+  "en": "【Takuya】 You're not even trying to cover up\nanymore. You just ooze maturity, you know that?"
+ },
+ {
+  "idx": 129,
+  "jp": "【絵里子】とりあえず話があるんだが‥‥どうすれば起きてくれるのかな。<wait>",
+  "win_jp": "【絵里子】とりあえず話があるんだが‥‥どうすれば起きてくれるのかな。",
+  "en": "【Eriko】 Anyway, there's something I'd like to discuss\nwith you. What do I have to do to get you up?"
+ },
+ {
+  "idx": 130,
+  "jp": "【たくや】そうだなぁ、その股間の間に装着されてる邪魔な布きれを取ってみると、起きるかもしれない。<wait>",
+  "win_jp": "【{NAME}】そうだなぁ、その股間の間に装着されてる邪魔な布きれを取ってみると、起きるかもしれない。",
+  "en": "【Takuya】 Hmm, discarding that scrap of cloth lodged\nbetween your legs might do the trick."
+ },
+ {
+  "idx": 131,
+  "jp": "【絵里子】別の所が、だろう？<wait>",
+  "win_jp": "【絵里子】別の所が、だろう？",
+  "en": "【Eriko】 That'll make something else get up."
+ },
+ {
+  "idx": 132,
+  "jp": "【たくや】おっ、わかってるじゃないか。<wait>",
+  "win_jp": "【{NAME}】おっ、わかってるじゃないか。",
+  "en": "【Takuya】 You understand this very well."
+ },
+ {
+  "idx": 133,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 134,
+  "jp": "【たくや】ちょっと目つきが恐くなってきたような。<wait>",
+  "win_jp": "【{NAME}】ちょっと目つきが恐くなってきたような。",
+  "en": "【Takuya】 I get the feeling your glare has grown a bit\nmore intense..."
+ },
+ {
+  "idx": 135,
+  "jp": "【絵里子】そうだな、このまま君の顔面を、さっきトイレに行ったばかりの靴底で踏みつける、というアイディアはどうかな。<wait>",
+  "win_jp": "【絵里子】そうだな、このまま君の顔面を、さっきトイレに行ったばかりの靴底で踏みつける、というアイディアはどうかな。",
+  "en": "【Eriko】 You know, I just got back from the restroom.\nWhat do you say I wipe my shoes off on your face?"
+ },
+ {
+  "idx": 136,
+  "jp": "【たくや】ふむ、さっきトイレに行ったばかりか‥‥<pause>",
+  "win_jp": "【{NAME}】ふむ、さっきトイレに行ったばかりか‥‥",
+  "en": "【Takuya】 I see, so you just went to the bathroom..."
+ },
+ {
+  "idx": 137,
+  "jp": "デヘ。<wait>",
+  "win_jp": "デヘ。",
+  "en": "\n*giggle*"
+ },
+ {
+  "idx": 138,
+  "jp": "【絵里子】こらっ、何を想像しているか！<wait>",
+  "win_jp": "【絵里子】こらっ、何を想像しているか！",
+  "en": "【Eriko】 Hey, what are you fantasizing about!"
+ },
+ {
+  "idx": 139,
+  "jp": "【たくや】いや、ほら。<wait>",
+  "win_jp": "【{NAME}】いや、ほら。",
+  "en": "【Takuya】 Well, you know."
+ },
+ {
+  "idx": 140,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 141,
+  "jp": "【たくや】そんな大魔人みたいな顔をしないでくれよ‥‥しょうがないな。<wait>",
+  "win_jp": "【{NAME}】そんな大魔人みたいな顔をしないでくれよ‥‥しょうがないな。",
+  "en": "【Takuya】 Please don't give me such a demonic\nglare... you take these things too seriously."
+ },
+ {
+  "idx": 142,
+  "jp": "【絵里子】早くしたまえ。<wait>",
+  "win_jp": "【絵里子】早くしたまえ。",
+  "en": "【Eriko】 Hurry up."
+ },
+ {
+  "idx": 143,
+  "jp": "【たくや】どっこいしょっと‥‥。<wait>",
+  "win_jp": "【{NAME}】どっこいしょっと‥‥。",
+  "en": "【Takuya】 Up we go..."
+ },
+ {
+  "idx": 144,
+  "jp": "【たくや】絵里子先生って、本気でやりそうだから恐いぜ。<wait>",
+  "win_jp": "【{NAME}】絵里子先生って、本気でやりそうだから恐いぜ。",
+  "en": "【Takuya】 I wouldn't put it past you to actually do it.\nThat's what makes you so scary."
+ },
+ {
+  "idx": 145,
+  "jp": "【絵里子】本当に呆れた生徒だな、君は‥‥。<wait>",
+  "win_jp": "【絵里子】本当に呆れた学生だな、君は‥‥。",
+  "en": "【Eriko】 I've had it up to here with you, you know\nthat?"
+ },
+ {
+  "idx": 146,
+  "jp": "【たくや】ここは学校の屋上だな‥‥。<wait>",
+  "win_jp": "【{NAME}】ここは学校の屋上だな‥‥。",
+  "en": "【Takuya】 I'm up on the school's rooftop.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 147,
+  "jp": "【たくや】位置的には３階というところか。校舎自体は、あまり高くないんだ。<wait>",
+  "win_jp": "【{NAME}】位置的には３階というところか。校舎自体は、あまり高くないんだ。",
+  "en": "【Takuya】 Technically, it's the third floor. The school\nbuilding itself isn't all that tall.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 148,
+  "jp": "【絵里子】環境保全地区とやらに、指定されているからな、ウチの学校は。<wait>",
+  "win_jp": "【絵里子】環境保全地区とやらに、指定されているからな、ウチの学校は。",
+  "en": "【Eriko】 Its architectural design was made in\nconsideration with a series of territorial laws passed\nfor aesthetic preservation.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 149,
+  "jp": "【たくや】高い建物は、自然の美観を損ねるんだとさ‥‥。<wait>",
+  "win_jp": "【{NAME}】高い建物は、自然の美観を損ねるんだとさ‥‥。",
+  "en": "【Takuya】 They say that tall buildings would ruin this\narea's natural beauty.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 150,
+  "jp": "【たくや】よし、ここはいっちょう、俺様が芸術性をアピールしてやらねばならんな‥‥。<wait>",
+  "win_jp": "【{NAME}】よし、ここはいっちょう、俺様が芸術性をアピールしてやらねばならんな‥‥。",
+  "en": "【Takuya】 Alright, the time has come for me to raise\nthe artistic merit of these grounds.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 151,
+  "jp": "【たくや】小便小僧だぞ、それーっ。<wait>",
+  "win_jp": "【{NAME}】小便小僧だぞ、それーっ。",
+  "en": "【Takuya】 Here's a Manneken Pis!",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 152,
+  "jp": "【絵里子】バカか、君は。<wait>",
+  "win_jp": "【絵里子】バカか、君は。",
+  "en": "【Eriko】 Are you stupid?",
+  "src": "09_02.MES"
+ },
+ {
+  "idx": 153,
+  "jp": "【たくや】クスン‥‥。<wait>",
+  "win_jp": "【{NAME}】クスン‥‥。",
+  "en": "【Takuya】 *sniffle*...",
+  "src": "08_01.MES"
+ },
+ {
+  "idx": 154,
+  "jp": "【たくや】絵里子先生もやってくれよ、小便小娘って。<wait>",
+  "win_jp": "【{NAME}】絵里子先生もやってくれよ、小便小娘って。",
+  "en": "【Takuya】 You should do it with me. You can be\nJeanneke Pis.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 155,
+  "jp": "【絵里子】やらん。<wait>",
+  "win_jp": "【{NAME}】やらん。",
+  "en": "【Eriko】 I wouldn't do that.",
+  "src": "09_01.MES"
+ },
+ {
+  "idx": 156,
+  "jp": "【たくや】校医の［武田　絵里子］先生だ。<wait>",
+  "win_jp": "【{NAME}】校医の［武田　絵里子］先生だ。",
+  "en": "【Takuya】 It's the school doctor, Eriko Takeda.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 157,
+  "jp": "【たくや】保健室に常駐していることが多い‥‥はずなんだが、保健室で会ったことはあまりない。<wait>",
+  "win_jp": "【{NAME}】保健室に常駐していることが多い‥‥はずなんだが、保健室で会ったことはあまりない。",
+  "en": "【Takuya】 She's supposed to be stationed in the\ninfirmary, well in theory at least. I rarely ever see her\nthere.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 158,
+  "jp": "【たくや】うーん、なんでだろう？<wait>",
+  "win_jp": "【{NAME}】うーん、なんでだろう？",
+  "en": "【Takuya】 Really, I wonder why?",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 159,
+  "jp": "【絵里子】私にも、色々と忙しい仕事があるのでね‥‥。<wait>",
+  "win_jp": "【絵里子】私にも、色々と忙しい仕事があるのでね‥‥。",
+  "en": "【Eriko】 Well you see, my job is pretty hectic.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 160,
+  "jp": "【たくや】保健室への常駐が仕事じゃないのか？<wait>",
+  "win_jp": "【{NAME}】保健室への常駐が仕事じゃないのか？",
+  "en": "【Takuya】 Isn't being stationed in the infirmary a part\nof the job description?",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 161,
+  "jp": "【絵里子】そうとも言うな。<wait>",
+  "win_jp": "【絵里子】そうとも言うな。",
+  "en": "【Eriko】 You could put it that way.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 162,
+  "jp": "【たくや】（大丈夫かね、この先生‥‥。）<wait>",
+  "win_jp": "【{NAME}】（大丈夫かね、この先生‥‥。）",
+  "en": "【Takuya】 (I pray that this teacher remains\nemployed...)",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 163,
+  "jp": "【たくや】ボディコンの服がマッチしていて、いいなぁ‥‥。<wait>",
+  "win_jp": "【{NAME}】ボディコンの服がマッチしていて、いいなぁ‥‥。",
+  "en": "【Takuya】 Her skimpy clothes match up really well.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 164,
+  "jp": "【たくや】うーん、教師にあるまじき姿で、とっても良いぞ。<wait>",
+  "win_jp": "【{NAME}】うーん、教師にあるまじき姿で、とっても良いぞ。",
+  "en": "【Takuya】 An outfit so unbecoming of a teacher, yet\nso good.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 165,
+  "jp": "【絵里子】この手の服が、流行っていると聞いたんでね。<wait>",
+  "win_jp": "【絵里子】この手の服が、流行っていると聞いたんでね。",
+  "en": "【Eriko】 I heard these kind of clothes were in fashion.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 166,
+  "jp": "【たくや】誰だよ、そんな嬉しい‥‥いやいや、無責任なことを言ったヤツは。<wait>",
+  "win_jp": "【{NAME}】誰だよ、そんな嬉しい‥‥いやいや、無責任なことを言ったヤツは。",
+  "en": "【Takuya】 Who was it that said such a brillian... I\nmean, irresponsible thing?",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 167,
+  "jp": "【絵里子】君だ。<wait>",
+  "win_jp": "【絵里子】君だ。",
+  "en": "【Eriko】 You did.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 168,
+  "jp": "【たくや】‥‥そうでした。<wait>",
+  "win_jp": "【{NAME}】‥‥そうでした。",
+  "en": "【Takuya】 ...Oh yeah, that's right.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 169,
+  "jp": "【たくや】絵里子先生は何か話そうとしているぜ‥‥。<wait>",
+  "win_jp": "【{NAME}】絵里子先生は何か話そうとしているぜ‥‥。",
+  "en": "【Takuya】 It would appear that Eriko-sensei wants to\ntell me something.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 170,
+  "jp": "【たくや】話してみないか？<wait>",
+  "win_jp": "【{NAME}】話してみないか？",
+  "en": "【Takuya】 I should talk to her a bit more.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 171,
+  "jp": "【たくや】ゲホゲホ！<wait>",
+  "win_jp": "【{NAME}】ゲホゲホ！",
+  "en": "【Takuya】 *cough* *cough*!",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 172,
+  "jp": "【たくや】いやしかし、教師が職場でスパスパってのもいいもんだなぁ。味がある。<wait>",
+  "win_jp": "【{NAME}】いやしかし、教師が職場でスパスパってのもいいもんだなぁ。味がある。",
+  "en": "【Takuya】 There's something charming about a\nteacher lighting up at her workplace.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 173,
+  "jp": "【絵里子】やめられないんでね。滅多に吸えないしろものさ。<wait>",
+  "win_jp": "【絵里子】やめられないんでね。滅多に吸えないしろものさ。",
+  "en": "【Eriko】 I can't stop. The opportunity to smoke these\ndoesn't come around all too often.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 174,
+  "jp": "【たくや】そんなに高級なタバコなんだ。<wait>",
+  "win_jp": "【{NAME}】そんなに高級なタバコなんだ。",
+  "en": "【Takuya】 Are those cigarettes really of such high\ncaliber?",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 175,
+  "jp": "【絵里子】いや、場所によっては、喫煙がご法度という所もあるということだ。<wait>",
+  "win_jp": "【絵里子】いや、場所によっては、喫煙がご法度という所もあるということだ。",
+  "en": "【Eriko】 No, but smoking is prohibited in some\nlocations.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 176,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........",
+  "src": "01.MES"
+ },
+ {
+  "idx": 177,
+  "jp": "【たくや】（そっか、絵里子先生は外国帰りだったんだ‥‥。）<wait>",
+  "win_jp": "【{NAME}】（そっか、絵里子先生は外国帰りだったんだ‥‥。）",
+  "en": "【Takuya】 (That's right, Eriko-sensei used to live\nabroad.)",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 178,
+  "jp": "【たくや】（ってことは、以前いたところじゃ禁煙が義務づけられていたとか‥‥？）<wait>",
+  "win_jp": "【{NAME}】（ってことは、以前いたところじゃ禁煙が義務づけられていたとか‥‥？）",
+  "en": "【Takuya】 (Does that imply that smoking was illegal at\nher past residence...?)",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 179,
+  "jp": "【絵里子】吸うか？<wait>",
+  "win_jp": "【絵里子】吸うか？",
+  "en": "【Eriko】 Want some?",
+  "src": "09_03.MES"
+ },
+ {
+  "idx": 180,
+  "jp": "【たくや】おいおい、未成年に勧めるかよ。<wait>",
+  "win_jp": "【{NAME}】おいおい、未成年に勧めるかよ。",
+  "en": "【Takuya】 Hey, hey, don't offer cigs to a minor.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 181,
+  "jp": "【絵里子】そうか‥‥二十歳未満はいけないんだった。<wait>",
+  "win_jp": "【絵里子】そうか‥‥二十歳未満はいけないんだった。",
+  "en": "【Eriko】 I see... I suppose you must be at least\ntwenty...",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 182,
+  "jp": "【たくや】（大丈夫かなぁ‥‥。）<wait>",
+  "win_jp": "【{NAME}】（大丈夫かなぁ‥‥。）",
+  "en": "【Takuya】 (I fear for her well-being...)",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 183,
+  "jp": "【絵里子】だが法律によると、喫煙による罰則規定はないぞ。<wait>",
+  "win_jp": "【絵里子】だが法律によると、喫煙による罰則規定はないぞ。",
+  "en": "【Eriko】 But the law about smoking doesn't have any\npunitive clauses.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 184,
+  "jp": "【たくや】は？<wait>",
+  "win_jp": "【神奈】は？",
+  "en": "【Takuya】 (I'm pretty sure she was in uniform when I\nsaw her at school earlier today.)",
+  "src": "04.MES"
+ },
+ {
+  "idx": 185,
+  "jp": "【絵里子】つまり、君が喫煙しても、それを罰する法律がないということだ。法の文面は喫煙を禁止しているだけなんだ。<wait>",
+  "win_jp": "【絵里子】つまり、君が喫煙しても、それを罰する法律がないということだ。法の文面は喫煙を禁止しているだけなんだ。",
+  "en": "【Eriko】 In other words, even if you were to smoke,\nthere'd be no legal ramifications. The clause simply\nstates it's prohibited.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 186,
+  "jp": "【たくや】ふぅん‥‥ってことは、俺が吸っても誰も俺を罰せない？<wait>",
+  "win_jp": "【{NAME}】ふぅん‥‥ってことは、俺が吸っても誰も俺を罰せない？",
+  "en": "【Takuya】 Really now... so basically, if I did smoke,\nnobody would punish me for it?",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 187,
+  "jp": "【絵里子】だが校則が罰するだろう。停学ないしは退学だな。<wait>",
+  "win_jp": "【絵里子】だが校則が罰するだろう。停学ないしは退学だな。",
+  "en": "【Eriko】 Well, it would go against school regulations, so\nyou'd face an academic consequence. Anywhere from\nsuspension to expulsion.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 188,
+  "jp": "【たくや】‥‥やっぱりやめよう。<wait>",
+  "win_jp": "【{NAME}】‥‥やっぱりやめよう。",
+  "en": "【Takuya】 ...Let's not, then.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 189,
+  "jp": "【たくや】吸わないぞ。俺は嫌いなんだ。<wait>",
+  "win_jp": "【{NAME}】吸わないぞ。俺は嫌いなんだ。",
+  "en": "【Takuya】 I don't want to smoke. I hate it.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 190,
+  "jp": "【絵里子】悪かったな。<wait>",
+  "win_jp": "【{NAME}】悪かったな。",
+  "en": "【Eriko】 Well sorry.",
+  "src": "C20_02.MES"
+ },
+ {
+  "idx": 191,
+  "jp": "【たくや】いや、絵里子先生はセックスの次くらいに好きだな。<wait>",
+  "win_jp": "【{NAME}】いや、絵里子先生はセックスの次くらいに好きだな。",
+  "en": "【Takuya】 Though I'm very fond of you, Eriko-sensei.\nYou're second only to sex.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 192,
+  "jp": "【絵里子】よけい悪い。<wait>",
+  "win_jp": "【絵里子】よけい悪い。",
+  "en": "【Eriko】 That doesn't make me feel better.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 193,
+  "jp": "【たくや】クスン‥‥。<wait>",
+  "win_jp": "【{NAME}】クスン‥‥。",
+  "en": "【Takuya】 *sniffle*...",
+  "src": "08_01.MES"
+ },
+ {
+  "idx": 194,
+  "jp": "【たくや】ロングヘアを後ろで縛っているみたいだな。<wait>",
+  "win_jp": "【{NAME}】ロングヘアを後ろで縛っているみたいだな。",
+  "en": "【Takuya】 She has her hair tied up behind her back.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 195,
+  "jp": "【たくや】以前までおろしていたのに‥‥心境の変化ってやつかな？<wait>",
+  "win_jp": "【{NAME}】以前までおろしていたのに‥‥心境の変化ってやつかな？",
+  "en": "【Takuya】 She used to leave it down... maybe she had\na change of heart?",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 196,
+  "jp": "【絵里子】上司に怒られてね。教職なんだから、もう少しパリっとしろとさ。<wait>",
+  "win_jp": "【絵里子】上司に怒られてね。教職なんだから、もう少しパリっとしろとさ。",
+  "en": "【Eriko】 My superior made a fuss about it. He said\nthat teachers should look a bit more classy.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 197,
+  "jp": "【たくや】ははは‥‥絵里子先生らしいな。<wait>",
+  "win_jp": "【{NAME}】ははは‥‥絵里子先生らしいな。",
+  "en": "【Takuya】 Hahaha... that doesn't surprise me.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 198,
+  "jp": "【たくや】海からの風でなびいてるぜ。<wait>",
+  "win_jp": "【{NAME}】海からの風でなびいてるぜ。",
+  "en": "【Takuya】 It's cascading in the wind.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 199,
+  "jp": "【たくや】綺麗な髪の毛だな‥‥。<wait>",
+  "win_jp": "【{NAME}】綺麗な髪の毛だな‥‥。",
+  "en": "【Takuya】 Such pretty hair...",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 200,
+  "jp": "【たくや】じゃ、そういうことで。<wait>",
+  "win_jp": "【{NAME}】じゃ、そういうことで。",
+  "en": "【Takuya】 Okay, see you.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 201,
+  "jp": "【絵里子】手すりから身を乗り出して‥‥自殺か？<wait>",
+  "win_jp": "【絵里子】手すりから身を乗り出して‥‥自殺か？",
+  "en": "【Eriko】 Why are you tottering over the railing?\nSuicidal tendencies?",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 202,
+  "jp": "【たくや】ははは‥‥そうだった、ここは３階だ。<wait>",
+  "win_jp": "【{NAME}】ははは‥‥そうだった、ここは３階だ。",
+  "en": "【Takuya】 Hahaha... I forgot we're on the third floor.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 203,
+  "jp": "【たくや】じゃ、そういうことで。<wait>",
+  "win_jp": "【{NAME}】じゃ、そういうことで。",
+  "en": "【Takuya】 Okay, see you.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 204,
+  "jp": "【絵里子】ピョンピョン跳ねて、何の真似だ？<wait>",
+  "win_jp": "【絵里子】ピョンピョン跳ねて、何の真似だ？",
+  "en": "【Eriko】 Why are you hopping about?",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 205,
+  "jp": "【たくや】うーん、さすがに空へは行けない‥‥。<wait>",
+  "win_jp": "【{NAME}】うーん、さすがに空へは行けない‥‥。",
+  "en": "【Takuya】 Hmm... it would seem that I can't take\nflight.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 206,
+  "jp": "【たくや】じゃ、そういうことで。<wait>",
+  "win_jp": "【{NAME}】じゃ、そういうことで。",
+  "en": "【Takuya】 Okay, see you.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 207,
+  "jp": "【絵里子】そこは私のスカートの中だ。<wait>",
+  "win_jp": "【絵里子】そこは私のスカートの中だ。",
+  "en": "【Eriko】 That's the inside of my skirt.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 208,
+  "jp": "【たくや】どうりで、かぐわしい香りが‥‥。<wait>",
+  "win_jp": "【{NAME}】どうりで、かぐわしい香りが‥‥。",
+  "en": "【Takuya】 Sure explains the strong scent.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 209,
+  "jp": "【たくや】じゃ、そういうことで。<wait>",
+  "win_jp": "【{NAME}】じゃ、そういうことで。",
+  "en": "【Takuya】 Okay, see you.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 210,
+  "jp": "【絵里子】こらこら。<wait>",
+  "win_jp": "【絵里子】こらこら。",
+  "en": "【Eriko】 Hey, hey!",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 211,
+  "jp": "【たくや】今度はまともに、階段使って降りようとしてるぜ。<wait>",
+  "win_jp": "【{NAME}】今度はまともに、階段使って降りようとしてるぜ。",
+  "en": "【Takuya】 I'm just going downstairs using the\nstaircase, what are you all worked up about?",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 212,
+  "jp": "【絵里子】まだ肝心の話が終わっていない。<wait>",
+  "win_jp": "【絵里子】まだ肝心の話が終わっていない。",
+  "en": "【Eriko】 I'm not done with you yet.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 213,
+  "jp": "【たくや】そっか、そうだった。<wait>",
+  "win_jp": "【{NAME}】そっか、そうだった。",
+  "en": "【Takuya】 Ah, I see.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 214,
+  "jp": "【たくや】じゃ、そういうことで。<wait>",
+  "win_jp": "【{NAME}】じゃ、そういうことで。",
+  "en": "【Takuya】 Okay, see you.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 215,
+  "jp": "【絵里子】どこにも行っていないじゃないか。<wait>",
+  "win_jp": "【絵里子】どこにも行っていないじゃないか。",
+  "en": "【Eriko】 Then why do you keep standing here?",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 216,
+  "jp": "【たくや】ネタ切れです。<wait>",
+  "win_jp": "【{NAME}】ネタ切れです。",
+  "en": "【Takuya】 I've run out of funny.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 217,
+  "jp": "【絵里子】少しはじっとしていられないのか？　君は。<wait>",
+  "win_jp": "【絵里子】少しはじっとしていられないのか？　君は。",
+  "en": "【Eriko】 Can't you just sit still for a moment?",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 218,
+  "jp": "【たくや】しょうがないな、もうちょっと話を聞いてやるか。<wait>",
+  "win_jp": "【{NAME}】しょうがないな、もうちょっと話を聞いてやるか。",
+  "en": "【Takuya】 Oh well. I guess I'll humor you for a bit\nlonger.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 219,
+  "jp": "【たくや】絵里子先生の話を聞こう‥‥。<wait>",
+  "win_jp": "【{NAME}】絵里子先生の話を聞こう‥‥。",
+  "en": "【Takuya】 Let's hear Eriko-sensei out.",
+  "src": "OPEN.MES"
+ },
+ {
+  "idx": 220,
+  "jp": "【たくや】で？<wait>",
+  "win_jp": "【{NAME}】で？",
+  "en": "【Takuya】 So?"
+ },
+ {
+  "idx": 221,
+  "jp": "【絵里子】で、とは？<wait>",
+  "win_jp": "【絵里子】で、とは？",
+  "en": "【Eriko】 \"So\"?"
+ },
+ {
+  "idx": 222,
+  "jp": "【たくや】話があるんだろう？　聞いてあげるよ。<wait>",
+  "win_jp": "【{NAME}】話があるんだろう？　聞いてあげるよ。",
+  "en": "【Takuya】 You wanted to talk with me, right? I shall\nlend you an ear."
+ },
+ {
+  "idx": 223,
+  "jp": "【絵里子】相変わらず尊大な生徒だな、君は。<wait>",
+  "win_jp": "【絵里子】相変わらず尊大な学生だな、君は。",
+  "en": "【Eriko】 You're as pompous as ever, I see."
+ },
+ {
+  "idx": 224,
+  "jp": "【たくや】性格でね、直りそうもない。<wait>",
+  "win_jp": "【{NAME}】性格でね、直りそうもない。",
+  "en": "【Takuya】 It's my trademark. Doubt I'll ever get over\nit."
+ },
+ {
+  "idx": 225,
+  "jp": "【絵里子】フフ‥‥校医の私が、担任に回される訳だな。<wait>",
+  "win_jp": "【絵里子】フフ‥‥校医の私が、担任に回される訳だな。",
+  "en": "【Eriko】 *chuckle*... It's not surprising that I, the\nschool doctor, was assigned to be your homeroom\nteacher."
+ },
+ {
+  "idx": 226,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 227,
+  "jp": "【絵里子】以前の君の担任が、２回も変わったというのも、あながち噂だけじゃないらしい。<wait>",
+  "win_jp": "【絵里子】以前の君の担任が、２回も変わったというのも、あながち噂だけじゃないらしい。",
+  "en": "【Eriko】 It appears that the whole thing about you\ncycling through two different teachers is not just an\nempty rumor."
+ },
+ {
+  "idx": 228,
+  "jp": "【たくや】別にいじめた訳じゃないぜ。やつらが勝手に辞めただけだ。<wait>",
+  "win_jp": "【{NAME}】別にいじめた訳じゃないぜ。やつらが勝手に辞めただけだ。",
+  "en": "【Takuya】 Well it's not like I bullied them out of it or\nanything. They quit of their own accord."
+ },
+ {
+  "idx": 229,
+  "jp": "【絵里子】そのうちの１件は、暴力沙汰におびえてって噂もあるが？<wait>",
+  "win_jp": "【絵里子】そのうちの１件は、暴力沙汰におびえてって噂もあるが？",
+  "en": "【Eriko】 I heard one of them scampered off after you\ngot physical with him."
+ },
+ {
+  "idx": 230,
+  "jp": "【たくや】さあね、俺は知らない。<wait>",
+  "win_jp": "【{NAME}】さあね、俺は知らない。",
+  "en": "【Takuya】 That's the first I've heard of it."
+ },
+ {
+  "idx": 231,
+  "jp": "【絵里子】ま、その話をしに来た訳じゃない。<wait>",
+  "win_jp": "【絵里子】ま、その話をしに来た訳じゃない。",
+  "en": "【Eriko】 Anyway, what I needed to talk to you about."
+ },
+ {
+  "idx": 232,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 233,
+  "jp": "【絵里子】たまってるようじゃないか。<wait>",
+  "win_jp": "【絵里子】たまってるようじゃないか。",
+  "en": "【Eriko】 You appear to be under an overwhelming\namount of stress."
+ },
+ {
+  "idx": 234,
+  "jp": "【たくや】絵里子先生が協力してくれたら、スッキリしそうだなぁ。<wait>",
+  "win_jp": "【{NAME}】絵里子先生が協力してくれたら、スッキリしそうだなぁ。",
+  "en": "【Takuya】 Well you could help me relieve some of\nthat, if you know what I mean."
+ },
+ {
+  "idx": 235,
+  "jp": "【絵里子】バカ、そういう意味じゃない。<wait>",
+  "win_jp": "【絵里子】バカ、そういう意味じゃない。",
+  "en": "【Eriko】 That's not what I'm talking about, asshole."
+ },
+ {
+  "idx": 236,
+  "jp": "【たくや】じゃあ、どういう意味？<wait>",
+  "win_jp": "【{NAME}】じゃあ、どういう意味？",
+  "en": "【Takuya】 Then what?"
+ },
+ {
+  "idx": 237,
+  "jp": "【絵里子】フフ‥‥まったく、相変わらずで良かったよ。<wait>",
+  "win_jp": "【絵里子】フフ‥‥まったく、相変わらずで良かったよ。",
+  "en": "【Eriko】 *chuckle*... Oh boy. I'm glad to see that\nnothing's changed."
+ },
+ {
+  "idx": 238,
+  "jp": "【たくや】そうでもないんだぜ、こう見えても。<wait>",
+  "win_jp": "【{NAME}】そうでもないんだぜ、こう見えても。",
+  "en": "【Takuya】 Actually, you'd be surprised."
+ },
+ {
+  "idx": 239,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 240,
+  "jp": "【たくや】俺に対しては、どいつもこいつも気を使いやがる。<wait>",
+  "win_jp": "【{NAME}】俺に対しては、どいつもこいつも気を使いやがる。",
+  "en": "【Takuya】 Everyone's been sticking their noses into\nmy affairs. Trying to be nice and all."
+ },
+ {
+  "idx": 241,
+  "jp": "【絵里子】教師たちか？<wait>",
+  "win_jp": "【絵里子】教師たちか？",
+  "en": "【Eriko】 The teachers?"
+ },
+ {
+  "idx": 242,
+  "jp": "【たくや】それもあるさ。<wait>",
+  "win_jp": "【{NAME}】それもあるさ。",
+  "en": "【Takuya】 They're included."
+ },
+ {
+  "idx": 243,
+  "jp": "【絵里子】ま、父親が高名な学者で、学長の親友だったという話だからな。<wait>",
+  "win_jp": "【絵里子】ま、父親が高名な学者で、学長の親友だったという話だからな。",
+  "en": "【Eriko】 Well of course, your father was both a\nrenowned scholar and a close friend of the\nheadmaster."
+ },
+ {
+  "idx": 244,
+  "jp": "【たくや】周りが騒ぎたててるだけだよ。俺はここの学長さんとやらと話したことは、一度だってないぜ。<wait>",
+  "win_jp": "【{NAME}】周りが騒ぎたててるだけだよ。俺はここの学長さんとやらと話したことは、一度だってないぜ。",
+  "en": "【Takuya】 They're just making a fuss over it. Not\nonce have I ever met the headmaster."
+ },
+ {
+  "idx": 245,
+  "jp": "【絵里子】君の父親が、たくさん知っているんだろう。<wait>",
+  "win_jp": "【絵里子】君の父親が、たくさん知っているんだろう。",
+  "en": "【Eriko】 I'm sure your father knew him well."
+ },
+ {
+  "idx": 246,
+  "jp": "【たくや】オヤジはオヤジだ。俺じゃない。<wait>",
+  "win_jp": "【{NAME}】オヤジはオヤジだ。俺じゃない。",
+  "en": "【Takuya】 Yes, but I'm not my father."
+ },
+ {
+  "idx": 247,
+  "jp": "【絵里子】そうは見てくれないのが、世間というものだ。フーー‥‥。<wait>",
+  "win_jp": "【絵里子】そうは見てくれないのが、世間というものだ。フーー‥‥。",
+  "en": "【Eriko】 Society won't look at it like that. *puff*..."
+ },
+ {
+  "idx": 248,
+  "jp": "【たくや】ゲホッ。<wait>",
+  "win_jp": "【{NAME}】ゲホッ。",
+  "en": "【Takuya】 *cough*"
+ },
+ {
+  "idx": 249,
+  "jp": "【絵里子】すまないな、一服やらせてもらっている。<wait>",
+  "win_jp": "【絵里子】すまないな、一服やらせてもらっている。",
+  "en": "【Eriko】 Sorry about the second hand smoke."
+ },
+ {
+  "idx": 250,
+  "jp": "【たくや】構わないよ。俺のオヤジも、１週間で部屋のカーテンが黄色くなっていたからな。<wait>",
+  "win_jp": "【{NAME}】構わないよ。俺のオヤジも、１週間で部屋のカーテンが黄色くなっていたからな。",
+  "en": "【Takuya】 It's fine. My old man smoked so much that\nhe turned the white curtains in his room yellow within\na week."
+ },
+ {
+  "idx": 251,
+  "jp": "【絵里子】そうか。そういう人がいると、心のささえになるな‥‥最近の喫煙者は肩身が狭い。<wait>",
+  "win_jp": "【絵里子】そうか。そういう人がいると、心のささえになるな‥‥最近の喫煙者は肩身が狭い。",
+  "en": "【Eriko】 I see. Glad to hear that people like that are\nstill around. I was beginning to feel a bit self-\nconscious about being a smoker lately."
+ },
+ {
+  "idx": 252,
+  "jp": "【たくや】ははは‥‥らしくないな。<wait>",
+  "win_jp": "【{NAME}】ははは‥‥らしくないな。",
+  "en": "【Takuya】 Hahaha... that's not like you."
+ },
+ {
+  "idx": 253,
+  "jp": "【絵里子】心外だぞ。<wait>",
+  "win_jp": "【絵里子】心外だぞ。",
+  "en": "【Eriko】 How mean."
+ },
+ {
+  "idx": 254,
+  "jp": "【たくや】だけど、絵里子先生が吸い始めたのって、ここ最近だろう？<wait>",
+  "win_jp": "【{NAME}】だけど、絵里子先生が吸い始めたのって、ここ最近だろう？",
+  "en": "【Takuya】 But didn't you pick up the habit recently?"
+ },
+ {
+  "idx": 255,
+  "jp": "【絵里子】ここに赴任してからだな。<wait>",
+  "win_jp": "【絵里子】ここに赴任してからだな。",
+  "en": "【Eriko】 I started when I was appointed here."
+ },
+ {
+  "idx": 256,
+  "jp": "【たくや】ってことは、まだ２か月弱か。この短期間で、よくそこまでヘビースモーカーになったよなぁ。<wait>",
+  "win_jp": "【{NAME}】ってことは、まだ２か月弱か。この短期間で、よくそこまでヘビースモーカーになったよなぁ。",
+  "en": "【Takuya】 So you've been a smoker for not even two\nmonths. Nice job, you became a chain smoker in no\ntime."
+ },
+ {
+  "idx": 257,
+  "jp": "【絵里子】もう病みつきだよ‥‥フーーー。<wait>",
+  "win_jp": "【絵里子】もう病みつきだよ‥‥フーーー。",
+  "en": "【Eriko】 I'm already addicted. *puff*..."
+ },
+ {
+  "idx": 258,
+  "jp": "【たくや】以前いたところ、そんなに厳しかったんだ。<wait>",
+  "win_jp": "【{NAME}】以前いたところ、そんなに厳しかったんだ。",
+  "en": "【Takuya】 Were they so strict about these things at\nyour past residence?"
+ },
+ {
+  "idx": 259,
+  "jp": "【絵里子】まあね。お国がらってやつかな。<wait>",
+  "win_jp": "【絵里子】まあね。お国がらってやつかな。",
+  "en": "【Eriko】 Sort of. A peculiarity of the country, I\nsuppose."
+ },
+ {
+  "idx": 260,
+  "jp": "【たくや】確か、ヨーロッパの方に住んでいた‥‥だったんだっけ？<wait>",
+  "win_jp": "【{NAME}】確か、ヨーロッパの方に住んでいた‥‥だったんだっけ？",
+  "en": "【Takuya】 You used to live somewhere in Europe...\nright?"
+ },
+ {
+  "idx": 261,
+  "jp": "【絵里子】ん？　うん‥‥まあ、そうだな。<wait>",
+  "win_jp": "【絵里子】ん？　うん‥‥まあ、そうだな。",
+  "en": "【Eriko】 Hm? Oh... yeah, that's right."
+ },
+ {
+  "idx": 262,
+  "jp": "【たくや】新任直前は、外国帰りの美人才女がやってくるって、噂の的だったんだぜ。<wait>",
+  "win_jp": "【{NAME}】新任直前は、外国帰りの美人才女がやってくるって、噂の的だったんだぜ。",
+  "en": "【Takuya】 The rumors ran rampant just before your\ninauguration, you know? There were glorious stories of\na beautiful and talented woman coming in from"
+ },
+ {
+  "idx": 263,
+  "jp": "【絵里子】逆接の接続詞が続きそうだな。<wait>",
+  "win_jp": "【絵里子】逆接の接続詞が続きそうだな。",
+  "en": "【Eriko】 I've got the feeling that you're going to\ncontinue with a \"however.\""
+ },
+ {
+  "idx": 264,
+  "jp": "【たくや】だってそれがいまや、男言葉に生徒の前でスパスパ‥‥青少年の健全な夢を、見事崩壊させてくれたぜ。<wait>",
+  "win_jp": "【{NAME}】だってそれがいまや、男言葉に学生の前でスパスパ‥‥青少年の健全な夢を、見事崩壊させてくれたぜ。",
+  "en": "【Takuya】 Well, here you are, speaking in a masculine\nfashion while taking drags right before your student...\nany young man's image would be utterly shattered."
+ },
+ {
+  "idx": 265,
+  "jp": "【絵里子】これが私だ‥‥飾るつもりもないしな。<wait>",
+  "win_jp": "【絵里子】これが私だ‥‥飾るつもりもないしな。",
+  "en": "【Eriko】 This is who I am. I have no intention of\nputting up appearances."
+ },
+ {
+  "idx": 266,
+  "jp": "【たくや】へへ、でも俺は結構気に入っているんだ。<wait>",
+  "win_jp": "【{NAME}】へへ、でも俺は結構気に入っているんだ。",
+  "en": "【Takuya】 Hehe. Though, I'm quite fond of the way\nyou are."
+ },
+ {
+  "idx": 267,
+  "jp": "【絵里子】そうだな‥‥２人とも、結構似ているかもしれない。<wait>",
+  "win_jp": "【絵里子】そうだな‥‥２人とも、結構似ているかもしれない。",
+  "en": "【Eriko】 Yeah... we might be quite alike, you and I."
+ },
+ {
+  "idx": 268,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 269,
+  "jp": "【たくや】（やっぱり付き合いやすいな、この先生は。）<wait>",
+  "win_jp": "【{NAME}】（やっぱり付き合いやすいな、この先生は。）",
+  "en": "【Takuya】 (It's really easy to talk to this teacher.)"
+ },
+ {
+  "idx": 270,
+  "jp": "【絵里子】相変わらず一匹狼だな、独りで昼寝とは。<wait>",
+  "win_jp": "【絵里子】相変わらず一匹狼だな、独りで昼寝とは。",
+  "en": "【Eriko】 You're still quite the loner, I see. Sleeping all\nalone on the roof."
+ },
+ {
+  "idx": 271,
+  "jp": "【たくや】別に‥‥クラスの連中が、俺を避けてるだけさ。<wait>",
+  "win_jp": "【{NAME}】別に‥‥クラスの連中が、俺を避けてるだけさ。",
+  "en": "【Takuya】 Not really... it's just that my classmates\nhave been avoiding me."
+ },
+ {
+  "idx": 272,
+  "jp": "【絵里子】部活、辞めたそうじゃないか。<wait>",
+  "win_jp": "【絵里子】部活、辞めたそうじゃないか。",
+  "en": "【Eriko】 Didn't you quit your club?"
+ },
+ {
+  "idx": 273,
+  "jp": "【たくや】ああ、つまんなくなったんでね。流行らないぜ、あんなスポーツ。<wait>",
+  "win_jp": "【{NAME}】ああ、つまんなくなったんでね。流行らないぜ、あんなスポーツ。",
+  "en": "【Takuya】 Yeah, it started to bore me. That sport is\nso passe."
+ },
+ {
+  "idx": 274,
+  "jp": "【絵里子】剣の道と書いて、剣道と読む。<wait>",
+  "win_jp": "【絵里子】剣の道と書いて、剣道と読む。",
+  "en": "【Eriko】 Kendo, was it? \"The way of the sword,\"\nliterally."
+ },
+ {
+  "idx": 275,
+  "jp": "【たくや】ははは‥‥古いよな、まったく。<wait>",
+  "win_jp": "【{NAME}】ははは‥‥古いよな、まったく。",
+  "en": "【Takuya】 Hahaha... that's such old-fashioned crap."
+ },
+ {
+  "idx": 276,
+  "jp": "【絵里子】私はいいと思うがな。日本古来の伝統文化じゃないか。<wait>",
+  "win_jp": "【絵里子】私はいいと思うがな。日本古来の伝統文化じゃないか。",
+  "en": "【Eriko】 Honestly, I like it. It's one of those time-\nhonored traditional Japanese arts, isn't it?"
+ },
+ {
+  "idx": 277,
+  "jp": "【たくや】今はサッカーに野球だ。猫もしゃくしも、ワールドカップに大リーグってね。<wait>",
+  "win_jp": "【{NAME}】今はサッカーに野球だ。猫もしゃくしも、ワールドカップに大リーグってね。",
+  "en": "【Takuya】 Soccer and Baseball are in these days. All\nanyone and their mother talks about anymore is the\nWorld Cup and the Major League."
+ },
+ {
+  "idx": 278,
+  "jp": "【絵里子】強かったらしいな。<wait>",
+  "win_jp": "【絵里子】強かったらしいな。",
+  "en": "【Eriko】 I heard you were pretty good."
+ },
+ {
+  "idx": 279,
+  "jp": "【たくや】サッカー？<wait>",
+  "win_jp": "【{NAME}】サッカー？",
+  "en": "【Takuya】 At soccer?"
+ },
+ {
+  "idx": 280,
+  "jp": "【絵里子】剣道の方。<wait>",
+  "win_jp": "【絵里子】剣道の方。",
+  "en": "【Eriko】 Kendo."
+ },
+ {
+  "idx": 281,
+  "jp": "【たくや】大したことない。昔からたしなんでいただけだよ。<wait>",
+  "win_jp": "【{NAME}】大したことない。昔からたしなんでいただけだよ。",
+  "en": "【Takuya】 I wasn't particularly exceptional. It's just\nbeen a hobby of mine since I was a kid."
+ },
+ {
+  "idx": 282,
+  "jp": "【絵里子】段位も、かなり上を狙えたそうじゃないか。<wait>",
+  "win_jp": "【絵里子】段位も、かなり上を狙えたそうじゃないか。",
+  "en": "【Eriko】 Didn't you have a pretty high rank?"
+ },
+ {
+  "idx": 283,
+  "jp": "【たくや】オヤジに昔から鍛えられてね。あいつは古風だったんだ。<wait>",
+  "win_jp": "【{NAME}】オヤジに昔から鍛えられてね。あいつは古風だったんだ。",
+  "en": "【Takuya】 My old man used to practice with me. He\nwas one for traditions."
+ },
+ {
+  "idx": 284,
+  "jp": "【絵里子】そうか‥‥。<wait>",
+  "win_jp": "【絵里子】そうか‥‥。",
+  "en": "【Eriko】 I see..."
+ },
+ {
+  "idx": 285,
+  "jp": "【たくや】で、話ってのは、それかい？<wait>",
+  "win_jp": "【{NAME}】で、話ってのは、それかい？",
+  "en": "【Takuya】 Was that what you wanted to talk to me\nabout?"
+ },
+ {
+  "idx": 286,
+  "jp": "【絵里子】これも、だ。<wait>",
+  "win_jp": "【絵里子】これも、だ。",
+  "en": "【Eriko】 Part of it."
+ },
+ {
+  "idx": 287,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 288,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 289,
+  "jp": "【たくや】らしくないな。<wait>",
+  "win_jp": "【{NAME}】らしくないな。",
+  "en": "【Takuya】 This isn't like you."
+ },
+ {
+  "idx": 290,
+  "jp": "【絵里子】ん？<wait>",
+  "win_jp": "【絵里子】ん？",
+  "en": "【Eriko】 Huh?"
+ },
+ {
+  "idx": 291,
+  "jp": "【たくや】さっきから気を遣ってくれて、らしくないぜ、絵里子先生。<wait>",
+  "win_jp": "【{NAME}】さっきから気を遣ってくれて、らしくないぜ、絵里子先生。",
+  "en": "【Takuya】 You're showing some sincere consideration\nfor my feelings. That's not like you, Eriko-sensei."
+ },
+ {
+  "idx": 292,
+  "jp": "【絵里子】そうかな。<wait>",
+  "win_jp": "【絵里子】そうかな。",
+  "en": "【Eriko】 You think?"
+ },
+ {
+  "idx": 293,
+  "jp": "【たくや】そうさ。<wait>",
+  "win_jp": "【{NAME}】そうさ。",
+  "en": "【Takuya】 Absolutely."
+ },
+ {
+  "idx": 294,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 295,
+  "jp": "【たくや】さっき、「学長の親友だった」って、俺のオヤジに過去形を使ったろう？<wait>",
+  "win_jp": "【{NAME}】さっき、「学長の親友だった」って、俺のオヤジに過去形を使ったろう？",
+  "en": "【Takuya】 Just a minute ago, you said my father \"was\na renowned scholar,\" in past tense, did you not?"
+ },
+ {
+  "idx": 296,
+  "jp": "【絵里子】‥‥耳がいいな。<wait>",
+  "win_jp": "【絵里子】‥‥耳がいいな。",
+  "en": "【Eriko】 ...You have good ears."
+ },
+ {
+  "idx": 297,
+  "jp": "【たくや】で、話ってわけか。<wait>",
+  "win_jp": "【{NAME}】で、話ってわけか。",
+  "en": "【Takuya】 Hence the talk, huh."
+ },
+ {
+  "idx": 298,
+  "jp": "【絵里子】まあな。一応、担任の責務というヤツだ。<wait>",
+  "win_jp": "【絵里子】まあな。一応、担任の責務というヤツだ。",
+  "en": "【Eriko】 Yeah. It's one of my obligations as your\nhomeroom teacher."
+ },
+ {
+  "idx": 299,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 300,
+  "jp": "【絵里子】フーー‥‥。<wait>",
+  "win_jp": "【絵里子】フーー‥‥。",
+  "en": "【Eriko】 *puff*..."
+ },
+ {
+  "idx": 301,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 302,
+  "jp": "【絵里子】気の毒だった‥‥という陳腐なセリフしか言えなくて申し訳ないが、気の毒だった。<wait>",
+  "win_jp": "【絵里子】気の毒だった‥‥という陳腐なセリフしか言えなくて申し訳ないが、気の毒だった。",
+  "en": "【Eriko】 It's very unfortunate. I'm sorry I couldn't\noffer something less cliche than that, but it truly is."
+ },
+ {
+  "idx": 303,
+  "jp": "【たくや】よしてくれよ、同情なんて。<wait>",
+  "win_jp": "【{NAME}】よしてくれよ、同情なんて。",
+  "en": "【Takuya】 Stop it. I don't need your pity."
+ },
+ {
+  "idx": 304,
+  "jp": "【絵里子】ま、社交辞令くらいに取っておいてくれ。<wait>",
+  "win_jp": "【絵里子】ま、社交辞令くらいに取っておいてくれ。",
+  "en": "【Eriko】 Just think of it as social etiquette."
+ },
+ {
+  "idx": 305,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 306,
+  "jp": "【絵里子】あまり悲しそうには見えないな、表面的には。<wait>",
+  "win_jp": "【絵里子】あまり悲しそうには見えないな、表面的には。",
+  "en": "【Eriko】 You don't seem all too distressed about it.\nWell, on the surface at least."
+ },
+ {
+  "idx": 307,
+  "jp": "【たくや】まあね。オヤジの野郎が、勝手にくたばっただけさ。<wait>",
+  "win_jp": "【{NAME}】まあね。オヤジの野郎が、勝手にくたばっただけさ。",
+  "en": "【Takuya】 I guess. That old bastard just decided to\nkick the bucket on his own accord. It's not like I could\ndo anything about it."
+ },
+ {
+  "idx": 308,
+  "jp": "【絵里子】そうか‥‥。<wait>",
+  "win_jp": "【絵里子】そうか‥‥。",
+  "en": "【Eriko】 I see..."
+ },
+ {
+  "idx": 309,
+  "jp": "【たくや】そうさ。<wait>",
+  "win_jp": "【{NAME}】そうさ。",
+  "en": "【Takuya】 Yeah."
+ },
+ {
+  "idx": 310,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 311,
+  "jp": "【たくや】‥‥‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥‥‥。",
+  "en": "【Takuya】 ............"
+ },
+ {
+  "idx": 312,
+  "jp": "【絵里子】確か、２か月くらい前の研究取材中に‥‥だったな。<wait>",
+  "win_jp": "【絵里子】確か、２か月くらい前の研究取材中に‥‥だったな。",
+  "en": "【Eriko】 If I recall, didn't he pass away about two\nmonths ago? While he was in the middle of conducting\nresearch?"
+ },
+ {
+  "idx": 313,
+  "jp": "【たくや】落石で生き埋めだとさ。生存の可能性はゼロ。<wait>",
+  "win_jp": "【{NAME}】落石で生き埋めだとさ。生存の可能性はゼロ。",
+  "en": "【Takuya】 Yeah, buried alive underneath a rockslide.\nThere was no way he could have made it out alive."
+ },
+ {
+  "idx": 314,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 315,
+  "jp": "【たくや】１か月たって、ようやく死亡認定されたって訳だ。肩の荷が下りたってところかな。<wait>",
+  "win_jp": "【{NAME}】１か月たって、ようやく死亡認定されたって訳だ。肩の荷が下りたってところかな。",
+  "en": "【Takuya】 But it took a whole month for his death to\nbe confirmed. That took a lot of weight off my\nshoulders."
+ },
+ {
+  "idx": 316,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 317,
+  "jp": "【たくや】フン、せめて遺体くらいあれば、文句の一つも言ってやれたんだが。<wait>",
+  "win_jp": "【{NAME}】フン、せめて遺体くらいあれば、文句の一つも言ってやれたんだが。",
+  "en": "【Takuya】 Hmph. If his body had actually been found, I\ncould have still given him a piece of my mind, but..."
+ },
+ {
+  "idx": 318,
+  "jp": "【絵里子】そうか‥‥残念だったな。<wait>",
+  "win_jp": "【絵里子】そうか‥‥残念だったな。",
+  "en": "【Eriko】 I see... that's regrettable."
+ },
+ {
+  "idx": 319,
+  "jp": "【たくや】湿っぽいのはよそうぜ。俺はもう、別に何とも思っちゃいない。本当だ。<wait>",
+  "win_jp": "【{NAME}】湿っぽいのはよそうぜ。俺はもう、別に何とも思っちゃいない。本当だ。",
+  "en": "【Takuya】 Let's cut this short. I'm already over it.\nReally."
+ },
+ {
+  "idx": 320,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 321,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 322,
+  "jp": "【絵里子】確か高名な歴史学者‥‥という話だったな。なにせ担任になったばかりだから、勉強不足で申し訳ないが。<wait>",
+  "win_jp": "【絵里子】確か高名な歴史学者‥‥という話だったな。なにせ担任になったばかりだから、勉強不足で申し訳ないが。",
+  "en": "【Eriko】 He was prestigious in the field of history...\nwasn't he? I've only just been assigned to you, so\nyou'll have to pardon me for not doing my homework."
+ },
+ {
+  "idx": 323,
+  "jp": "【たくや】高名かどうかは知らないが‥‥。<wait>",
+  "win_jp": "【{NAME}】高名かどうかは知らないが‥‥。",
+  "en": "【Takuya】 I'm not sure I'd say prestigious, but..."
+ },
+ {
+  "idx": 324,
+  "jp": "【絵里子】うん。<wait>",
+  "win_jp": "【絵里子】うん。",
+  "en": "【Eriko】 Yes?"
+ },
+ {
+  "idx": 325,
+  "jp": "【たくや】とにかく本と資料に埋まって、昔のことを考えるのが生き甲斐のヤツではあったな。<wait>",
+  "win_jp": "【{NAME}】とにかく本と資料に埋まって、昔のことを考えるのが生き甲斐のヤツではあったな。",
+  "en": "【Takuya】 Well, his whole reason for being was to\ncradle the past while burying himself in all sorts of\nbooks and articles."
+ },
+ {
+  "idx": 326,
+  "jp": "【絵里子】［有馬　広大］（ありま　こうだい）博士‥‥だったかな。<wait>",
+  "win_jp": "【絵里子】［有馬　広大］（ありま　こうだい）博士‥‥だったかな。",
+  "en": "【Eriko】 Dr. Koudai Arima... right?"
+ },
+ {
+  "idx": 327,
+  "jp": "【たくや】ああ。ヤツには、よく語って聞かされたよ。歴史のウンチクとやらをさ。<wait>",
+  "win_jp": "【{NAME}】ああ。ヤツには、よく語って聞かされたよ。歴史のウンチクとやらをさ。",
+  "en": "【Takuya】 Yeah. He'd often impart his vast historical\nknowledge to me."
+ },
+ {
+  "idx": 328,
+  "jp": "【絵里子】いいことだな。<wait>",
+  "win_jp": "【絵里子】いいことだな。",
+  "en": "【Eriko】 That's nice."
+ },
+ {
+  "idx": 329,
+  "jp": "【たくや】単なる酒のサカナさ‥‥ま、そのおかげで歴史の点数は悪くなかったけどね。<wait>",
+  "win_jp": "【{NAME}】単なる酒のサカナさ‥‥ま、そのおかげで歴史の点数は悪くなかったけどね。",
+  "en": "【Takuya】 It was just something he did over drinks.\nWell, thanks to that, I've managed to maintain rather\ngood grades in my history classes."
+ },
+ {
+  "idx": 330,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 331,
+  "jp": "【絵里子】そういえば、さっき下の廊下で、有馬さんに会った。<wait>",
+  "win_jp": "【絵里子】そういえば、さっき下の廊下で、有馬さんに会った。",
+  "en": "【Eriko】 By the way, I bumped into Arima-san\ndownstairs just a moment ago."
+ },
+ {
+  "idx": 332,
+  "jp": "【たくや】有馬さんって‥‥俺のこと？<wait>",
+  "win_jp": "【{NAME}】有馬さんって‥‥俺のこと？",
+  "en": "【Takuya】 Arima-san? Are you talking about me?"
+ },
+ {
+  "idx": 333,
+  "jp": "【絵里子】バカ。君を「さん」付けで呼ぶか。<wait>",
+  "win_jp": "【絵里子】バカ。君を「さん」付けで呼ぶか。",
+  "en": "【Eriko】 Don't be stupid. I wouldn't address you that\nway."
+ },
+ {
+  "idx": 334,
+  "jp": "【たくや】ってーと‥‥。<wait>",
+  "win_jp": "【{NAME}】ってーと‥‥。",
+  "en": "【Takuya】 Then..."
+ },
+ {
+  "idx": 335,
+  "jp": "【絵里子】君の母親だ。<wait>",
+  "win_jp": "【絵里子】君の母親だ。",
+  "en": "【Eriko】 Your mother."
+ },
+ {
+  "idx": 336,
+  "jp": "【たくや】亜由美さんに？　彼女、来てるんだ。<wait>",
+  "win_jp": "【{NAME}】亜由美さんに？　彼女、来てるんだ。",
+  "en": "【Takuya】 Ayumi-san? So she's here."
+ },
+ {
+  "idx": 337,
+  "jp": "【絵里子】何でも、工事拡張に関して、学長と話があるそうだが。<wait>",
+  "win_jp": "【絵里子】何でも、工事拡張に関して、学長と話があるそうだが。",
+  "en": "【Eriko】 It seems that she has matters to discuss\nwith the headmaster regarding the expansion of her\ncorporation's construction efforts."
+ },
+ {
+  "idx": 338,
+  "jp": "【たくや】ふぅん‥‥。<wait>",
+  "win_jp": "【{NAME}】ふぅん‥‥。",
+  "en": "【Takuya】 Really now..."
+ },
+ {
+  "idx": 339,
+  "jp": "【絵里子】有馬さんは、意外に明るいようだったな。少し救われるよ。<wait>",
+  "win_jp": "【絵里子】有馬さんは、意外に明るいようだったな。少し救われるよ。",
+  "en": "【Eriko】 Arima-san looked remarkably cheerful. I was\npretty relieved."
+ },
+ {
+  "idx": 340,
+  "jp": "【たくや】‥‥見た目どおりなら、いいんだけどね。<wait>",
+  "win_jp": "【{NAME}】‥‥見た目どおりなら、いいんだけどね。",
+  "en": "【Takuya】 ...I just hope that she's not putting up a\nfacade."
+ },
+ {
+  "idx": 341,
+  "jp": "【絵里子】どう話をしていいか、わからない部分もある‥‥。<wait>",
+  "win_jp": "【絵里子】どう話をしていいか、わからない部分もある‥‥。",
+  "en": "【Eriko】 Sometimes, I feel like I have to walk on\neggshells around her."
+ },
+ {
+  "idx": 342,
+  "jp": "【たくや】普通に話すぶんには大丈夫さ。人前で泣くような人じゃあない。<wait>",
+  "win_jp": "【{NAME}】普通に話すぶんには大丈夫さ。人前で泣くような人じゃあない。",
+  "en": "【Takuya】 Just act like you normally do. She's not the\nkind of woman who'd have a breakdown in public."
+ },
+ {
+  "idx": 343,
+  "jp": "【絵里子】難しいところだな。ま、結婚して半年で未亡人となれば‥‥。<wait>",
+  "win_jp": "【絵里子】難しいところだな。ま、結婚して半年で未亡人となれば‥‥。",
+  "en": "【Eriko】 Things must be difficult on her side, having\nlost her husband after being wed for only half a year."
+ },
+ {
+  "idx": 344,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 345,
+  "jp": "【絵里子】どうだい、家庭の方は。<wait>",
+  "win_jp": "【絵里子】どうだい、家庭の方は。",
+  "en": "【Eriko】 How are things going at home?"
+ },
+ {
+  "idx": 346,
+  "jp": "【たくや】万事、順調さ。<wait>",
+  "win_jp": "【{NAME}】万事、順調さ。",
+  "en": "【Takuya】 Everything's A-Okay."
+ },
+ {
+  "idx": 347,
+  "jp": "【絵里子】顔には、そう書いていないが。<wait>",
+  "win_jp": "【絵里子】顔には、そう書いていないが。",
+  "en": "【Eriko】 The look on your face betrays otherwise."
+ },
+ {
+  "idx": 348,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 349,
+  "jp": "【絵里子】腫れ物にさわる心境か？<wait>",
+  "win_jp": "【絵里子】腫れ物にさわる心境か？",
+  "en": "【Eriko】 Is she a bit unstable?"
+ },
+ {
+  "idx": 350,
+  "jp": "【たくや】当たり前だ。絵里子先生が彼女の立場になったときを、想像してみなよ。<wait>",
+  "win_jp": "【{NAME}】当たり前だ。絵里子先生が彼女の立場になったときを、想像してみなよ。",
+  "en": "【Takuya】 Of course. Just try to imagine being in her\nposition right now."
+ },
+ {
+  "idx": 351,
+  "jp": "【絵里子】フーー‥‥。<wait>",
+  "win_jp": "【絵里子】フーー‥‥。",
+  "en": "【Eriko】 *puff*..."
+ },
+ {
+  "idx": 352,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 353,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 354,
+  "jp": "【たくや】絵里子先生。<wait>",
+  "win_jp": "【{NAME}】絵里子先生。",
+  "en": "【Takuya】 Eriko-sensei."
+ },
+ {
+  "idx": 355,
+  "jp": "【絵里子】ん？<wait>",
+  "win_jp": "【絵里子】ん？",
+  "en": "【Eriko】 Hm?"
+ },
+ {
+  "idx": 356,
+  "jp": "【たくや】念のために言っておくが、くれぐれも‥‥。<wait>",
+  "win_jp": "【{NAME}】念のために言っておくが、くれぐれも‥‥。",
+  "en": "【Takuya】 For confirmation's sake, please don't tell―"
+ },
+ {
+  "idx": 357,
+  "jp": "【絵里子】言わないに決まっている。そこまで度胸はない。<wait>",
+  "win_jp": "【絵里子】言わないに決まっている。そこまで度胸はない。",
+  "en": "【Eriko】 I won't, obviously. I wouldn't dare to."
+ },
+ {
+  "idx": 358,
+  "jp": "【たくや】そっか、助かるよ‥‥。<wait>",
+  "win_jp": "【{NAME}】そっか、助かるよ‥‥。",
+  "en": "【Takuya】 I see. Thanks."
+ },
+ {
+  "idx": 359,
+  "jp": "【絵里子】ま、バカな教師がダイレクトに言ってしまって、過激な生徒に殴られたって例もあるし。<wait>",
+  "win_jp": "【絵里子】ま、バカな教師がダイレクトに言ってしまって、過激な学生に殴られたって例もあるし。",
+  "en": "【Eriko】 After all, I remember hearing of this instance\nin which a teacher was struck by a rabid student for\nbeing too direct."
+ },
+ {
+  "idx": 360,
+  "jp": "【たくや】へぇ、暴力はいけないよなぁ。<wait>",
+  "win_jp": "【{NAME}】へぇ、暴力はいけないよなぁ。",
+  "en": "【Takuya】 Really? Violence is bad, man."
+ },
+ {
+  "idx": 361,
+  "jp": "【絵里子】その教師は、君のクラスの担任だったって話もあるが？<wait>",
+  "win_jp": "【絵里子】その教師は、君のクラスの担任だったって話もあるが？",
+  "en": "【Eriko】 Word has it that individual was your past\nhomeroom teacher."
+ },
+ {
+  "idx": 362,
+  "jp": "【たくや】そんな間抜けな教師もいるんだ。知らなかったな‥‥。<wait>",
+  "win_jp": "【{NAME}】そんな間抜けな教師もいるんだ。知らなかったな‥‥。",
+  "en": "【Takuya】 So even this school has its share of foolish\nteachers. I had no idea."
+ },
+ {
+  "idx": 363,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 364,
+  "jp": "【絵里子】で、どうする？　これから。<wait>",
+  "win_jp": "【絵里子】で、どうする？　これから。",
+  "en": "【Eriko】 So what will you do now?"
+ },
+ {
+  "idx": 365,
+  "jp": "【たくや】家に帰って、自慰行為でもするかな。<wait>",
+  "win_jp": "【{NAME}】家に帰って、自慰行為でもするかな。",
+  "en": "【Takuya】 I guess I'll just go home and jack off."
+ },
+ {
+  "idx": 366,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 367,
+  "jp": "【たくや】ゴメンよ。<wait>",
+  "win_jp": "【{NAME}】ゴメンよ。",
+  "en": "【Takuya】 Pardon me."
+ },
+ {
+  "idx": 368,
+  "jp": "【絵里子】実際君は、大したやつだな。<wait>",
+  "win_jp": "【絵里子】実際君は、大したやつだな。",
+  "en": "【Eriko】 You're really something, you know that?"
+ },
+ {
+  "idx": 369,
+  "jp": "【たくや】自慰行為が、そんなに大したことか？<wait>",
+  "win_jp": "【{NAME}】自慰行為が、そんなに大したことか？",
+  "en": "【Takuya】 Is masturbation really all that great?"
+ },
+ {
+  "idx": 370,
+  "jp": "【絵里子】バカ、その度胸というか、心の持ち方だよ。<wait>",
+  "win_jp": "【絵里子】バカ、その度胸というか、心の持ち方だよ。",
+  "en": "【Eriko】 No, idiot. I mean how confident you are. Your\nmindset."
+ },
+ {
+  "idx": 371,
+  "jp": "【たくや】週に２回は、かかさないんだよな。<wait>",
+  "win_jp": "【{NAME}】週に２回は、かかさないんだよな。",
+  "en": "【Takuya】 I've never failed to do it at least twice a\nweek."
+ },
+ {
+  "idx": 372,
+  "jp": "【絵里子】何の話をしている。<wait>",
+  "win_jp": "【絵里子】何の話をしている。",
+  "en": "【Eriko】 What are you talking about?"
+ },
+ {
+  "idx": 373,
+  "jp": "【たくや】だから、自慰。<wait>",
+  "win_jp": "【{NAME}】だから、自慰。",
+  "en": "【Takuya】 Masturbation, of course."
+ },
+ {
+  "idx": 374,
+  "jp": "【絵里子】ま、それだけ言えれば大丈夫だろう。その勢いで、母親も力づけてやるんだな。<wait>",
+  "win_jp": "【絵里子】ま、それだけ言えれば大丈夫だろう。その勢いで、母親も力づけてやるんだな。",
+  "en": "【Eriko】 Well, judging by your reaction, there's no call\nfor concern. Use that same energy to cheer up your\nmother."
+ },
+ {
+  "idx": 375,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 376,
+  "jp": "【絵里子】進路はどうする？<wait>",
+  "win_jp": "【絵里子】進路はどうする？",
+  "en": "【Eriko】 What are you going to do after you graduate?"
+ },
+ {
+  "idx": 377,
+  "jp": "【たくや】好奇心からの質問かい？<wait>",
+  "win_jp": "【{NAME}】好奇心からの質問かい？",
+  "en": "【Takuya】 Are you asking out of curiosity?"
+ },
+ {
+  "idx": 378,
+  "jp": "【絵里子】まさか。人はそれぞれ生きたいように生きればいいんだ。それは私のポリシーでもある‥‥。<wait>",
+  "win_jp": "【絵里子】まさか。人はそれぞれ生きたいように生きればいいんだ。それは私のポリシーでもある‥‥。",
+  "en": "【Eriko】 Oh please. Everyone should be free to live\nlife as they please. That's my policy."
+ },
+ {
+  "idx": 379,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 380,
+  "jp": "【絵里子】これは担任としての責務の範囲内だな。聞いておくように、学年主任に言われたんでね。<wait>",
+  "win_jp": "【絵里子】これは担任としての責務の範囲内だな。聞いておくように、学年主任に言われたんでね。",
+  "en": "【Eriko】 This is one of my duties as your homeroom\nteacher. The vice principal wanted me to ask you."
+ },
+ {
+  "idx": 381,
+  "jp": "【たくや】卒業はするつもりさ、いちおうね。<wait>",
+  "win_jp": "【{NAME}】卒業はするつもりさ、いちおうね。",
+  "en": "【Takuya】 I'm planning on graduating, at least."
+ },
+ {
+  "idx": 382,
+  "jp": "【絵里子】うん‥‥君の家は、経済的に問題はなさそうだし、大丈夫だろう。<wait>",
+  "win_jp": "【絵里子】うん‥‥君の家は、経済的に問題はなさそうだし、大丈夫だろう。",
+  "en": "【Eriko】 I see... well, economically speaking, your\nfamily is pretty well off, so that shouldn't pose a\nproblem."
+ },
+ {
+  "idx": 383,
+  "jp": "【たくや】亜由美さんは、オヤジの野郎と違って、ちゃんとしたカタギの仕事についてるからな。<wait>",
+  "win_jp": "【{NAME}】亜由美さんは、オヤジの野郎と違って、ちゃんとしたカタギの仕事についてるからな。",
+  "en": "【Takuya】 Unlike my father, Ayumi-san actually has a\nrespectable job."
+ },
+ {
+  "idx": 384,
+  "jp": "【絵里子】確か、海岸沿いの大きな会社だったか。ジオ‥‥何とか、だったな。<wait>",
+  "win_jp": "【絵里子】確か、海岸沿いの大きな会社だったか。ジオ‥‥何とか、だったな。",
+  "en": "【Eriko】 She works for that large corporation by the\ncoast, right? Geo... something?"
+ },
+ {
+  "idx": 385,
+  "jp": "【たくや】担任なんだから、まったく‥‥ジオ・テクニクスだよ。<wait>",
+  "win_jp": "【{NAME}】担任なんだから、まったく‥‥ジオ・テクニクスだよ。",
+  "en": "【Takuya】 I thought you were supposed to be in\ncharge of me, for crying out loud... it's \"Geo\nTechnics.\""
+ },
+ {
+  "idx": 386,
+  "jp": "【絵里子】そうそう、そんな名前だった。<wait>",
+  "win_jp": "【絵里子】そうそう、そんな名前だった。",
+  "en": "【Eriko】 Right, that's the one."
+ },
+ {
+  "idx": 387,
+  "jp": "【たくや】‥‥ここからは、ちょっと見えないな。<wait>",
+  "win_jp": "【{NAME}】‥‥ここからは、ちょっと見えないな。",
+  "en": "【Takuya】 ...You can't really see it from here."
+ },
+ {
+  "idx": 388,
+  "jp": "【絵里子】だが、眺めはいいな‥‥<pause>",
+  "win_jp": "【絵里子】だが、眺めはいいな‥‥",
+  "en": "【Eriko】 It's a lovely view at least..."
+ },
+ {
+  "idx": 389,
+  "jp": "あれか？　海岸でやってるというのは。<wait>",
+  "win_jp": "あれか？　海岸でやってるというのは。",
+  "en": " is that part of it?\nThey're doing it on the beach."
+ },
+ {
+  "idx": 390,
+  "jp": "【たくや】海岸で、アレをやってる？<wait>",
+  "win_jp": "【{NAME}】海岸で、アレをやってる？",
+  "en": "【Takuya】 They're doing it on the beach!?"
+ },
+ {
+  "idx": 391,
+  "jp": "【絵里子】バカか。<wait>",
+  "win_jp": "【絵里子】バカか。",
+  "en": "【Eriko】 Are you stupid?"
+ },
+ {
+  "idx": 392,
+  "jp": "【たくや】クスン‥‥。<wait>",
+  "win_jp": "【{NAME}】クスン‥‥。",
+  "en": "【Takuya】 *sniffle*..."
+ },
+ {
+  "idx": 393,
+  "jp": "【絵里子】最近ずっと、工事をしているみたいだな。<wait>",
+  "win_jp": "【絵里子】最近ずっと、工事をしているみたいだな。",
+  "en": "【Eriko】 Looks like they've been going at it nonstop\nfor a while now."
+ },
+ {
+  "idx": 394,
+  "jp": "【たくや】ああ‥‥ここ１週間ばかり、ずっとだ。<wait>",
+  "win_jp": "【{NAME}】ああ‥‥ここ１週間ばかり、ずっとだ。",
+  "en": "【Takuya】 Yeah... they've worked throughout this\nentire week."
+ },
+ {
+  "idx": 395,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 396,
+  "jp": "【たくや】一度、行ってみるかな、海岸に。<wait>",
+  "win_jp": "【{NAME}】一度、行ってみるかな、海岸に。",
+  "en": "【Takuya】 I should drop by there sometime."
+ },
+ {
+  "idx": 397,
+  "jp": "【絵里子】立ち入りは禁止だそうだ。<wait>",
+  "win_jp": "【絵里子】立ち入りは禁止だそうだ。",
+  "en": "【Eriko】 Access to the beach is restricted,\napparently."
+ },
+ {
+  "idx": 398,
+  "jp": "【たくや】端っこから、少し見るだけだよ。<wait>",
+  "win_jp": "【{NAME}】端っこから、少し見るだけだよ。",
+  "en": "【Takuya】 I'll just watch from the sidelines."
+ },
+ {
+  "idx": 399,
+  "jp": "【絵里子】確か、社屋拡張のための岩盤調査、という話だったと思うが‥‥。<wait>",
+  "win_jp": "【絵里子】確か、社屋拡張のための岩盤調査、という話だったと思うが‥‥。",
+  "en": "【Eriko】 I hear they've been surveying the bedrock as\ntheir next site for expansion."
+ },
+ {
+  "idx": 400,
+  "jp": "【たくや】えっ、そうなの？<wait>",
+  "win_jp": "【{NAME}】えっ、そうなの？",
+  "en": "【Takuya】 Really?"
+ },
+ {
+  "idx": 401,
+  "jp": "【絵里子】私に聞かれても困るな。君の母親が務めてるんだろう、ジオ・テクニクスには。<wait>",
+  "win_jp": "【絵里子】私に聞かれても困るな。君の母親が務めてるんだろう、ジオ・テクニクスには。",
+  "en": "【Eriko】 Don't ask me. Doesn't your mother work for\nGeo Technics?"
+ },
+ {
+  "idx": 402,
+  "jp": "【たくや】家では、仕事の話をほとんどしないんでね。<wait>",
+  "win_jp": "【{NAME}】家では、仕事の話をほとんどしないんでね。",
+  "en": "【Takuya】 She rarely talks about work whenever she's\nat home."
+ },
+ {
+  "idx": 403,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 404,
+  "jp": "【たくや】家族の団らんに、仕事はいらぬってことかな。<wait>",
+  "win_jp": "【{NAME}】家族の団らんに、仕事はいらぬってことかな。",
+  "en": "【Takuya】 She must think that the subject of work\nisn't suited for family discussions."
+ },
+ {
+  "idx": 405,
+  "jp": "【絵里子】‥‥最近、かんばしくないらしいな。<wait>",
+  "win_jp": "【絵里子】‥‥最近、かんばしくないらしいな。",
+  "en": "【Eriko】 ...Times are rough lately, huh."
+ },
+ {
+  "idx": 406,
+  "jp": "【たくや】おいおい、家庭内のことまで言うのか？<wait>",
+  "win_jp": "【{NAME}】おいおい、家庭内のことまで言うのか？",
+  "en": "【Takuya】 Hey, are you going to dip your hand into\ndomestic affairs now?"
+ },
+ {
+  "idx": 407,
+  "jp": "【絵里子】バカ。工事のことだよ。<wait>",
+  "win_jp": "【絵里子】バカ。工事のことだよ。",
+  "en": "【Eriko】 I'm talking about the construction site,\nstupid."
+ },
+ {
+  "idx": 408,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 409,
+  "jp": "【絵里子】事故続きって話じゃないか。<wait>",
+  "win_jp": "【絵里子】事故続きって話じゃないか。",
+  "en": "【Eriko】 Haven't the efforts been plagued with\nrecurring accidents?"
+ },
+ {
+  "idx": 410,
+  "jp": "【たくや】みたいだね。<wait>",
+  "win_jp": "【{NAME}】みたいだね。",
+  "en": "【Takuya】 It looks that way."
+ },
+ {
+  "idx": 411,
+  "jp": "【絵里子】どういうことなのかな？<wait>",
+  "win_jp": "【絵里子】どういうことなのかな？",
+  "en": "【Eriko】 What's been going on?"
+ },
+ {
+  "idx": 412,
+  "jp": "【たくや】俺に訊くよりも、新聞なんかの方が詳しいぜ、たぶん。<wait>",
+  "win_jp": "【{NAME}】俺に訊くよりも、新聞なんかの方が詳しいぜ、たぶん。",
+  "en": "【Takuya】 If you're looking for specifics, you'd be\nbetter off reading the newspaper."
+ },
+ {
+  "idx": 413,
+  "jp": "【絵里子】読んでるよ。何でも落雷で、すでに３人が死亡したそうだ。<wait>",
+  "win_jp": "【絵里子】読んでるよ。何でも落雷で、すでに３人が死亡したそうだ。",
+  "en": "【Eriko】 I've been keeping up. There are three cases\nof casualties, all of which died by being struck by\nlightning."
+ },
+ {
+  "idx": 414,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 415,
+  "jp": "【絵里子】フーー‥‥。<wait>",
+  "win_jp": "【絵里子】フーー‥‥。",
+  "en": "【Eriko】 *puff*..."
+ },
+ {
+  "idx": 416,
+  "jp": "【たくや】‥‥‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥‥‥。",
+  "en": "【Takuya】 ............"
+ },
+ {
+  "idx": 417,
+  "jp": "【絵里子】有馬さんだったら、たぶんまだ学校内にいるはずだ。<wait>",
+  "win_jp": "【絵里子】有馬さんだったら、たぶんまだ学校内にいるはずだ。",
+  "en": "【Eriko】 Arima-san is probably still here."
+ },
+ {
+  "idx": 418,
+  "jp": "【たくや】別に、夜になれば家で会えるわけだし。<wait>",
+  "win_jp": "【{NAME}】別に、夜になれば家で会えるわけだし。",
+  "en": "【Takuya】 And? I can talk to her just as well at home\ntonight."
+ },
+ {
+  "idx": 419,
+  "jp": "【絵里子】フフ、突っ張ってるじゃないか‥‥いいぞ。<wait>",
+  "win_jp": "【絵里子】フフ、突っ張ってるじゃないか‥‥いいぞ。",
+  "en": "【Eriko】 *chuckle* You're copping an attitude... nice\ngoing."
+ },
+ {
+  "idx": 420,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 421,
+  "jp": "【たくや】（ちぇっ、かなわんなぁ、この先生には。）<wait>",
+  "win_jp": "【{NAME}】（ちぇっ、かなわんなぁ、この先生には。）",
+  "en": "【Takuya】 (Tch, I can't beat this woman.)"
+ },
+ {
+  "idx": 422,
+  "jp": "【絵里子】そうそう、奨学金のことは聞いたか？<wait>",
+  "win_jp": "【絵里子】そうそう、奨学金のことは聞いたか？",
+  "en": "【Eriko】 Oh right, did you hear about the scholarship?"
+ },
+ {
+  "idx": 423,
+  "jp": "【たくや】いや、いま初めて。<wait>",
+  "win_jp": "【{NAME}】いや、いま初めて。",
+  "en": "【Takuya】 Nope, this is the first I've heard of it."
+ },
+ {
+  "idx": 424,
+  "jp": "【絵里子】経済的に苦しいのであれば、残りの学費は出しても構わないと、学長が言っていたぞ。<wait>",
+  "win_jp": "【絵里子】経済的に苦しいのであれば、残りの学費は出しても構わないと、学長が言っていたぞ。",
+  "en": "【Eriko】 If you ever run into money problems, the\nheadmaster offered to pay for the remainder of your\ntuition."
+ },
+ {
+  "idx": 425,
+  "jp": "【たくや】まさかな。<wait>",
+  "win_jp": "【{NAME}】まさかな。",
+  "en": "【Takuya】 Yeah, right."
+ },
+ {
+  "idx": 426,
+  "jp": "【絵里子】‥‥？<wait>",
+  "win_jp": "【絵里子】‥‥？",
+  "en": "【Eriko】 ...?"
+ },
+ {
+  "idx": 427,
+  "jp": "【たくや】慎んで、お断りするって伝えておいてくれよ。<wait>",
+  "win_jp": "【{NAME}】慎んで、お断りするって伝えておいてくれよ。",
+  "en": "【Takuya】 Could you tell him that I refuse, with all\ndue respect."
+ },
+ {
+  "idx": 428,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 429,
+  "jp": "【たくや】ま、そういうことさ。<wait>",
+  "win_jp": "【{NAME}】ま、そういうことさ。",
+  "en": "【Takuya】 You heard it."
+ },
+ {
+  "idx": 430,
+  "jp": "【絵里子】あまり、良くは思っていないみたいだな、学長を。<wait>",
+  "win_jp": "【絵里子】あまり、良くは思っていないみたいだな、学長を。",
+  "en": "【Eriko】 It would appear that you have some qualms\nwith the headmaster."
+ },
+ {
+  "idx": 431,
+  "jp": "【たくや】想像は勝手にしてくれて構わないが、それを真相のように語って欲しくはないな。<wait>",
+  "win_jp": "【{NAME}】想像は勝手にしてくれて構わないが、それを真相のように語って欲しくはないな。",
+  "en": "【Takuya】 Think what you will, just don't speak on it\nas if it were the truth."
+ },
+ {
+  "idx": 432,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 433,
+  "jp": "【たくや】ま、親友だったのは俺のオヤジだ。俺まで親しくなる義務も責任もない訳だからな。<wait>",
+  "win_jp": "【{NAME}】ま、親友だったのは俺のオヤジだ。俺まで親しくなる義務も責任もない訳だからな。",
+  "en": "【Takuya】 It wasn't me, but my father who was\nfriends with him. I have no obligation nor\nresponsibility to conduct myself the same way."
+ },
+ {
+  "idx": 434,
+  "jp": "【絵里子】そうか‥‥。<wait>",
+  "win_jp": "【絵里子】そうか‥‥。",
+  "en": "【Eriko】 Is that so..."
+ },
+ {
+  "idx": 435,
+  "jp": "【たくや】そうさ‥‥。<wait>",
+  "win_jp": "【{NAME}】そうさ‥‥。",
+  "en": "【Takuya】 Yeah."
+ },
+ {
+  "idx": 436,
+  "jp": "【絵里子】‥‥‥‥。<wait>",
+  "win_jp": "【絵里子】‥‥‥‥。",
+  "en": "【Eriko】 ........"
+ },
+ {
+  "idx": 437,
+  "jp": "【たくや】‥‥‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥‥‥。",
+  "en": "【Takuya】 ............"
+ },
+ {
+  "idx": 438,
+  "jp": "キーンコーン‥‥。<wait>",
+  "win_jp": "キーンコーン‥‥。",
+  "en": "*ding* *dong*..."
+ },
+ {
+  "idx": 439,
+  "jp": "【絵里子】おっ、そろそろ行かないといけないな。<wait>",
+  "win_jp": "【絵里子】おっ、そろそろ行かないといけないな。",
+  "en": "【Eriko】 I have to go soon."
+ },
+ {
+  "idx": 440,
+  "jp": "【たくや】ああ‥‥。<wait>",
+  "win_jp": "【{NAME}】ああ‥‥。",
+  "en": "【Takuya】 Yeah..."
+ },
+ {
+  "idx": 441,
+  "jp": "【絵里子】あまり頼りにならない担任ですまないな。<wait>",
+  "win_jp": "【絵里子】あまり頼りにならない担任ですまないな。",
+  "en": "【Eriko】 I'm sorry for being so unreliable."
+ },
+ {
+  "idx": 442,
+  "jp": "【たくや】まったくだ。<wait>",
+  "win_jp": "【{NAME}】まったくだ。",
+  "en": "【Takuya】 You sure are."
+ },
+ {
+  "idx": 443,
+  "jp": "【絵里子】フフ‥‥だが相談くらいなら、のってあげられる。<wait>",
+  "win_jp": "【絵里子】フフ‥‥だが相談くらいなら、のってあげられる。",
+  "en": "【Eriko】 *chuckle*... Though you're more than\nwelcome to see me if you need some consultation."
+ },
+ {
+  "idx": 444,
+  "jp": "【たくや】気を遣わなくたっていいぜ。<wait>",
+  "win_jp": "【{NAME}】気を遣わなくたっていいぜ。",
+  "en": "【Takuya】 No need to be so considerate of my\nfeelings."
+ },
+ {
+  "idx": 445,
+  "jp": "【絵里子】ま、金以外のことだったら、だいたいＯＫだ。保健室へ来てくれ。<wait>",
+  "win_jp": "【絵里子】ま、金以外のことだったら、だいたいＯＫだ。保健室へ来てくれ。",
+  "en": "【Eriko】 So long as it isn't about money, I'll do\nwhatever I can for you. Just drop by the infirmary."
+ },
+ {
+  "idx": 446,
+  "jp": "【たくや】金以外だったらＯＫ？<wait>",
+  "win_jp": "【{NAME}】金以外だったらＯＫ？",
+  "en": "【Takuya】 So anything, aside from money, is okay?"
+ },
+ {
+  "idx": 447,
+  "jp": "【絵里子】うん。<wait>",
+  "win_jp": "【絵里子】うん。",
+  "en": "【Eriko】 Yes."
+ },
+ {
+  "idx": 448,
+  "jp": "【たくや】へっへっへ。<wait>",
+  "win_jp": "【{NAME}】へっへっへ。",
+  "en": "【Takuya】 Heheheh."
+ },
+ {
+  "idx": 449,
+  "jp": "【絵里子】却下。<wait>",
+  "win_jp": "【絵里子】却下。",
+  "en": "【Eriko】 Denied."
+ },
+ {
+  "idx": 450,
+  "jp": "【たくや】まだ何も言っていないぞ。<wait>",
+  "win_jp": "【{NAME}】まだ何も言っていないぞ。",
+  "en": "【Takuya】 I haven't said anything yet."
+ },
+ {
+  "idx": 451,
+  "jp": "【絵里子】どうせ君のことだ、想像はつく。<wait>",
+  "win_jp": "【絵里子】どうせ君のことだ、想像はつく。",
+  "en": "【Eriko】 I can get a picture of what's on your mind."
+ },
+ {
+  "idx": 452,
+  "jp": "【たくや】教師のくせに、先入観で個人を判断するのか？<wait>",
+  "win_jp": "【{NAME}】教師のくせに、先入観で個人を判断するのか？",
+  "en": "【Takuya】 You're judging people based on personal\nprejudice? Why, aren't you the model teacher."
+ },
+ {
+  "idx": 453,
+  "jp": "【絵里子】口だけは達者だな‥‥じゃあ、言ってみろ。<wait>",
+  "win_jp": "【絵里子】口だけは達者だな‥‥じゃあ、言ってみろ。",
+  "en": "【Eriko】 You have a smooth tongue, at least... let's\nhear it then."
+ },
+ {
+  "idx": 454,
+  "jp": "【たくや】青い性の悩み。<wait>",
+  "win_jp": "【{NAME}】青い性の悩み。",
+  "en": "【Takuya】 Sexual issues."
+ },
+ {
+  "idx": 455,
+  "jp": "【絵里子】却下。<wait>",
+  "win_jp": "【絵里子】却下。",
+  "en": "【Eriko】 Denied."
+ },
+ {
+  "idx": 456,
+  "jp": "【たくや】あのなぁ、健全な青少年には、性の悩みは結構深刻なんだぞ。<wait>",
+  "win_jp": "【{NAME}】あのなぁ、健全な青少年には、性の悩みは結構深刻なんだぞ。",
+  "en": "【Takuya】 Hey now, a wholesome adolescent's sexual\nissues can be pretty severe, you know?"
+ },
+ {
+  "idx": 457,
+  "jp": "【絵里子】君は健全ではない。<wait>",
+  "win_jp": "【絵里子】君は健全ではない。",
+  "en": "【Eriko】 You're not wholesome."
+ },
+ {
+  "idx": 458,
+  "jp": "【たくや】ちぇっ。<wait>",
+  "win_jp": "【{NAME}】ちぇっ。",
+  "en": "【Takuya】 Tch."
+ },
+ {
+  "idx": 459,
+  "jp": "【絵里子】フッ、まぁ明日から補習だからな、サボるんじゃないぞ。<wait>",
+  "win_jp": "【絵里子】フッ、まぁ明日から補習だからな、サボるんじゃないぞ。",
+  "en": "【Eriko】 Heh. Supplementary lessons will begin\ntomorrow. Don't skip them."
+ },
+ {
+  "idx": 460,
+  "jp": "【たくや】明日は明日の風が吹くと‥‥。<wait>",
+  "win_jp": "【{NAME}】明日は明日の風が吹くと‥‥。",
+  "en": "【Takuya】 Who knows what tomorrow will bring."
+ },
+ {
+  "idx": 461,
+  "jp": "【絵里子】しょうがないな、寄り道しないで帰ること。と言っても、君はどうせ言うことを聞かないだろうが。<wait>",
+  "win_jp": "【絵里子】しょうがないな、寄り道しないで帰ること。と言っても、君はどうせ言うことを聞かないだろうが。",
+  "en": "【Eriko】 You're hopeless. Go straight home, you hear?\nWell, it's not like you'd listen to me anyway."
+ },
+ {
+  "idx": 462,
+  "jp": "【たくや】わかってるじゃん。さすが担任。<wait>",
+  "win_jp": "【{NAME}】わかってるじゃん。さすが担任。",
+  "en": "【Takuya】 You understand very well. You get a gold\nstar, teach."
+ },
+ {
+  "idx": 463,
+  "jp": "【絵里子】さてと‥‥まだ仕事があるからな。<wait>",
+  "win_jp": "【絵里子】さてと‥‥まだ仕事があるからな。",
+  "en": "【Eriko】 Well then... I have other work to attend to."
+ },
+ {
+  "idx": 464,
+  "jp": "【たくや】疲れてるのかい？<wait>",
+  "win_jp": "【{NAME}】疲れてるのかい？",
+  "en": "【Takuya】 Are you tired?"
+ },
+ {
+  "idx": 465,
+  "jp": "【絵里子】まあね。ここ最近、ずっと宿直を申し出ているんだ。<wait>",
+  "win_jp": "【絵里子】まあね。ここ最近、ずっと宿直を申し出ているんだ。",
+  "en": "【Eriko】 Sort of. I've requested a position on night\nduty for the past couple days."
+ },
+ {
+  "idx": 466,
+  "jp": "【たくや】宿直ってーと、夜の番かい？<wait>",
+  "win_jp": "【{NAME}】宿直ってーと、夜の番かい？",
+  "en": "【Takuya】 Night duty? Like keeping watch at night?"
+ },
+ {
+  "idx": 467,
+  "jp": "【絵里子】そんなところだ‥‥じゃあ。<wait>",
+  "win_jp": "【絵里子】そんなところだ‥‥じゃあ。",
+  "en": "【Eriko】 Something like that. See you."
+ },
+ {
+  "idx": 468,
+  "jp": "【たくや】‥‥‥‥。<wait>",
+  "win_jp": "【{NAME}】‥‥‥‥。",
+  "en": "【Takuya】 ........"
+ },
+ {
+  "idx": 469,
+  "jp": "【たくや】しかし、妙な校医の先生だよな‥‥。<wait>",
+  "win_jp": "【{NAME}】しかし、妙な校医の先生だよな‥‥。",
+  "en": "【Takuya】 She sure is one bizarre doctor..."
+ },
+ {
+  "idx": 470,
+  "jp": "【たくや】ボディコン、ミニスカ、くわえタバコに、うっとうしい髪の毛‥‥。<wait>",
+  "win_jp": "【{NAME}】ボディコン、ミニスカ、くわえタバコに、うっとうしい髪の毛‥‥。",
+  "en": "【Takuya】 She wears generous clothing, always has a\ncigarette dangling from her lips, and not to mention\nthat characteristic mopey hairstyle."
+ },
+ {
+  "idx": 471,
+  "jp": "【たくや】ははは‥‥やっぱ、青少年の夢がくずれるぜ。<wait>",
+  "win_jp": "【{NAME}】ははは‥‥やっぱ、青少年の夢が崩れるぜ。",
+  "en": "【Takuya】 Hahaha... any young man's fantasy would be\nspectacularly ruined."
+ },
+ {
+  "idx": 472,
+  "jp": "【絵里子】こら、露骨に女性の胸を見つめるもんじゃない。それに何だ、その怪しげな手つきは。<wait>",
+  "win_jp": "【絵里子】こら、露骨に女性の胸を見つめるもんじゃない。それに何だ、その怪しげな手つきは。",
+  "en": "【Eriko】 Hey, don't just stare at a woman's chest so\nopenly. And what's up with those questionable hand\ngestures?"
+ },
+ {
+  "idx": 473,
+  "jp": "【たくや】女性の豊満な胸や尻にときめくのは、オスの種の保存本能だそうだぜ。<wait>",
+  "win_jp": "【{NAME}】女性の豊満な胸や尻にときめくのは、オスの種の保存本能だそうだぜ。",
+  "en": "【Takuya】 Man's procreant instinct is to drool over a\nwoman's voluptuous proportions."
+ },
+ {
+  "idx": 474,
+  "jp": "【絵里子】だから？<wait>",
+  "win_jp": "【絵里子】だから？",
+  "en": "【Eriko】 So?"
+ },
+ {
+  "idx": 475,
+  "jp": "【たくや】だから、そういう本能があるからこそ、人類がここまで繁栄してきたってことさ。<wait>",
+  "win_jp": "【{NAME}】だから、そういう本能があるからこそ、人類がここまで繁栄してきたってことさ。",
+  "en": "【Takuya】 So, because of the implementation of this\ninstinct, mankind has managed to prosper to this day."
+ },
+ {
+  "idx": 476,
+  "jp": "【絵里子】本能だけの君が言うと、説得力があるな。<wait>",
+  "win_jp": "【絵里子】本能だけの君が言うと、説得力があるな。",
+  "en": "【Eriko】 Doesn't sound convincing coming from\nsomeone who relies solely on his instincts."
+ },
+ {
+  "idx": 477,
+  "jp": "【たくや】どういうことだよ‥‥。<wait>",
+  "win_jp": "【{NAME}】どういうことだよ‥‥。",
+  "en": "【Takuya】 What do you mean by that..."
+ },
+ {
+  "idx": 478,
+  "jp": "【絵里子】こら。<wait>",
+  "win_jp": "【絵里子】こら。",
+  "en": "【Eriko】 Hey."
+ },
+ {
+  "idx": 479,
+  "jp": "【たくや】しょうがない、見ないであげよう。<wait>",
+  "win_jp": "【{NAME}】しょうがない、見ないであげよう。",
+  "en": "【Takuya】 Oh well, I'll stop watching."
+ },
+ {
+  "idx": 480,
+  "jp": "【たくや】ふむ、キュッとしまってこれはなかなか‥‥デヘ。<wait>",
+  "win_jp": "【{NAME}】ふむ、キュッとしまってこれはなかなか‥‥デヘ。",
+  "en": "【Takuya】 Ohh, they're squeezed firmly together... hee\nhee..."
+ },
+ {
+  "idx": 481,
+  "jp": "【絵里子】オヤジか、君は。<wait>",
+  "win_jp": "【絵里子】オヤジか、君は。",
+  "en": "【Eriko】 You sound like a lecherous old coot."
+ },
+ {
+  "idx": 482,
+  "jp": "【たくや】形のいいお尻だよなぁ‥‥ガバッていきたくなる。<wait>",
+  "win_jp": "【{NAME}】形のいいお尻だよなぁ‥‥ガバッていきたくなる。",
+  "en": "【Takuya】 It's one shapely butt. I wouldn't mind giving\nthat a good grab."
+ },
+ {
+  "idx": 483,
+  "jp": "【絵里子】おい、行動に移しているぞ。<wait>",
+  "win_jp": "【絵里子】おい、行動に移しているぞ。",
+  "en": "【Eriko】 Hey now, it's starting to reflect in your\nactions."
+ },
+ {
+  "idx": 484,
+  "jp": "【たくや】あっ、ごっめーん。<wait>",
+  "win_jp": "【{NAME}】あっ、ごっめーん。",
+  "en": "【Takuya】 Ah. Soorry!"
+ },
+ {
+  "idx": 485,
+  "jp": "【絵里子】次は蹴りがいくから、覚悟しておくように。<wait>",
+  "win_jp": "【絵里子】次は蹴りがいくから、覚悟しておくように。",
+  "en": "【Eriko】 I'll kick you next time. You'd best prepare\nyourself."
+ },
+ {
+  "idx": 486,
+  "jp": "【たくや】覚悟しておこう‥‥。<wait>",
+  "win_jp": "【{NAME}】覚悟しておこう‥‥。",
+  "en": "【Takuya】 I think I will..."
+ },
+ {
+  "idx": 487,
+  "jp": "【たくや】蹴りは恐いからな、尻はもういい。<wait>",
+  "win_jp": "【{NAME}】蹴りは恐いからな、尻はもういい。",
+  "en": "【Takuya】 I don't want to be kicked. I've had enough\nof her butt."
+ },
+ {
+  "idx": 488,
+  "jp": "【絵里子】改めてそう言われると、何だかしゃくにさわるな。<wait>",
+  "win_jp": "【絵里子】改めてそう言われると、何だかしゃくに触るな。",
+  "en": "【Eriko】 Now I feel slightly aggravated about that."
+ }
+]
